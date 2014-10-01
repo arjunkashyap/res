@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE res SYSTEM "res.dtd">
+
+<res>
+	<volume vnum="19">
+		<issue inum="08" month="08" year="2014">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0667-0667</page>
+				<allauthors>
+					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
+				</allauthors>
+			</entry>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0670-0670</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Aneesur Rahman: A Pioneer in Computational Physics</title>
+				<feature>General Article</feature>
+				<page>0671-0683</page>
+				<allauthors>
+					<author isfellow="0" lname="Sen" fname="Kalidas">Sen, Kalidas</author>
+					<author isfellow="0" lname="Sastry" fname="Srikanth">Sastry, Srikanth</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Enrico Fermi – The Complete Physicist</title>
+				<feature>General Article</feature>
+				<page>0684-0703</page>
+				<allauthors>
+					<author isfellow="1" lname="Roy" fname="Amit">Roy, Amit</author>
+					</allauthors>
+			</entry>
+			<entry>
+				<title>Do Identical Polar Diatomic Molecules Form Stacked or Linear Dimers?: Hydrogen Bonding is Not Just Dipole-Dipole Interactions</title>
+				<feature>General Article</feature>
+				<page>0704-0712</page>
+				<allauthors>
+					<author isfellow="0" lname="Williams" fname="C. W.">Williams, C. W.</author>
+					<author isfellow="0" lname="Zare" fname="R. N.">Zare, R. N.</author>
+					<author isfellow="1" lname="Arunan" fname="E.">Arunan, E.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Variational Monte Carlo Technique: Ground State Energies of Quantum Mechanical Systems</title>
+				<feature>General Article</feature>
+				<page>0713-0739</page>
+				<allauthors>
+					<author isfellow="1" lname="Deb" fname="Sukanta">Sukanta, Deb</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>On Embedding a Semigroup in a Group</title>
+				<feature>General Article</feature>
+				<page>0740-0752</page>
+				<allauthors>
+					<author isfellow="0" lname="Madhusudana Rao" fname="J.">Madhusudana Rao, J.</author>
+					<author isfellow="0" lname="Ramakrishna" fname="A. V.">Ramakrishna, A. V.</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Nature Watch: On the Trail of Skinks of the Western Ghats</title>
+				<feature>Feature Article</feature>
+				<page>0753-0763</page>
+				<allauthors>
+					<author isfellow="0" lname="Datta-Roy" fname="Aniruddha">Datta-Roy, Anirudha</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Discrete, the Continuous and the 'Concrete': Classical Harmonic Dynamics</title>
+				<feature>Classroom</feature>
+				<page>0764-0774</page>
+				<allauthors>
+					<author isfellow="0" lname="Das" fname="Santanu">Das, Santanu</author>
+					<author isfellow="1" lname="Kumar" fname="N.">Kumar, N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course on Classical Mechanics and Electromagnetism</title>
+				<feature>Information and Announcements</feature>
+				<page>0775-0775</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Sixty-sisth Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0776-0776</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Antidesma montanum</title>
+				<feature>Flowering Trees</feature>
+				<page>0777-0777</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Aneesur Rahman(1927–1987)</title>
+				<feature>Featured Scientist</feature>
+				<page>0778-0778</page>
+				<allauthors/>
+			</entry>
+		</issue>
+	</volume>
+</res>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE current_issue SYSTEM "current_issue.dtd">
+
+<current_issue vnum="19" inum="08" month="08" year="2014">
+	<feature_article>
+		<entry>
+			<title>Aneesur Rahman: A Pioneer in Computational Physics</title>
+			<text></text>
+			<page>0671-0683</page>
+		</entry>
+		<entry>
+			<title>Enrico Fermi – The Complete Physicist</title>
+			<text></text>
+			<page>0684-0703</page>
+		</entry>
+		<entry>
+			<title>Variational MC Technique</title>
+			<text></text>
+			<page>0713-0739</page>
+		</entry>
+		<entry>
+			<title>Hydrogen Bonding</title>
+			<text></text>
+			<page>0704-0712</page>
+			</entry>
+		<entry>
+			<title>Embedding a Semigroup in a Group</title>
+			<text></text>
+			<page>0740-0752</page>
+		</entry>
+		<entry>
+			<title>Skinks of the Western Ghats</title>
+			<text></text>
+			<page>0753-0763</page>
+		</entry>	
+		<entry>
+			<title>Classical Harmonic Dynamics</title>
+			<text></text>
+			<page>0764-0774</page>
+		</entry>
+	</feature_article>			
+		<entry>
+			<title>Editorial</title>
+			<author>K.L. Sebastian</author>
+			<text></text>
+			<page>0667-0667</page>
+		</entry>
+	<cover>
+		<entry>
+			<title>Molecular simulation of an ice crystal. This view is looking down the hexagonal channel in the crystal. See article on page 671. Courtesy: Shekhar Garde, Linda Schadler and Richard W Siegel, http://www.molecularium.com</title>
+		</entry>
+	</cover>
+	<bcover>
+		<entry>
+			<title>Aneesur Rahman</title>
+			<text>1927&#8211;1987</text>
+		</entry>
+	</bcover>
+</current_issue>
