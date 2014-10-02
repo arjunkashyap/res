@@ -67,9 +67,10 @@
 			<p class="title">Annual Subscription Rates</p>
 			<div class="sub_left"><hr />
 				<p class="p2">
-					<span class="bld">Institutions: </span>Rs. 500/- per year<br /><br />
-					<span class="bld">Individuals: </span>Rs. 400/- minimum for two years<br /><br />
-					<span class="bld">Price per single copy: </span>Rs. 40/-
+					<span class="bld">Institutions: </span>Rs. 700/- per year<br /><br />
+					<span class="bld">Personal: </span>Rs. 600/- minimum for two years<br /><br />
+					<span class="bld">Price per single copy: </span>Rs. 50/-<br /><br />
+					<span>For more details and the order form <a href="pdf/order_form_2015.pdf">click here</a></span>
 				</p>
 			</div>
 			<div class="sub_left">
