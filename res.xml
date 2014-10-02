@@ -27964,5 +27964,175 @@
 				<allauthors/>
 			</entry>
 		</issue>
+        <issue inum="09" month="09" year="2014">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0777-0777</page>
+				<allauthors>
+					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vladimir Igorevich Arnold (1937-2010)</title>
+				<feature>Article-in-a-Box</feature>
+				<page>0779-0783</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0784-0785</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0786-0786</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Singularities in a Teacup: Good Mathematics from Bad Lenses</title>
+				<feature>General Article</feature>
+				<page>0787-0796</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Crossing a Nonlinear Resonance: Adiabatic Invariants and the Melnikov-Arnold Integral</title>
+				<feature>General Article</feature>
+				<page>0797-0813</page>
+				<allauthors>
+					<author isfellow="0" lname="Jain" fname="Sudhir R.">Jain, Sudhir R.</author>
+					</allauthors>
+			</entry>
+			<entry>
+				<title>Schmallenberg Virus: An Emerging New Challenge to Farm Animals</title>
+				<feature>General Article</feature>
+				<page>0814-0820</page>
+				<allauthors>
+					<author isfellow="0" lname="Meyers" fname="Anosha">Meyers, Anosha</author>
+					<author isfellow="0" lname="Tatu" fname="Utpal">Tatu, Utpal</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Vibration and Sound Damping in Polymers</title>
+				<feature>General Article</feature>
+				<page>0821-0833</page>
+				<allauthors>
+					<author isfellow="0" lname="Geethamma" fname="V. G.">Geethamma, V. G.</author>
+					<author isfellow="0" lname="Asaletha" fname="R.">Asaletha, R.</author>
+					<author isfellow="0" lname="Kalarikkal" fname="Nandakumar">Kalarikkal, Nandakumar </author>
+					<author isfellow="0" lname="Thomas" fname="Sabu">Thomas, Sabu</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The First Quantum Theory of Molecules</title>
+				<feature>General Article</feature>
+				<page>0834-0839</page>
+				<allauthors>
+					<author isfellow="0" lname="Ogilvie" fname="J. F.">Ogilvie, J. F.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sheep Distribution Problem Through Egyptian Fractions</title>
+				<feature>Classroom</feature>
+				<page>0840-0763</page>
+				<allauthors>
+					<author isfellow="0" lname="Abbas" fname="Syed">Abbas, Syed</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Converting Chair-like Transition States into Zig-Zag Projections: A Method of Drawing Stereochemical Structures</title>
+				<feature>Classroom</feature>
+				<page>0846-0850</page>
+				<allauthors>
+					<author isfellow="0" lname="Hussaini" fname="Syed R.">Hussaini, Syed R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>On Teaching Mathematics</title>
+				<feature>Classics</feature>
+				<page>0851-0861</page>
+				<allauthors>
+					<author isfellow="0" lname="Arnold" fname="V. I.">Arnold, V. I.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>On Learning from Arnold's Talk on the Teaching of Mathematics</title>
+				<feature>Classics</feature>
+				<page>0862-0865</page>
+				<allauthors>
+					<author isfellow="0" lname="Paranjape" fname="Kapil Hari">Paranjape, Kapil Hari</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mathematics Prize Awarded at ICM 2014</title>
+				<feature>Classics</feature>
+				<page>0866-0872</page>
+				<allauthors>
+					<author isfellow="0" lname="Paranjape" fname="Kapil Hari">Paranjape, Kapil Hari</author>
+				</allauthors>
+			</entry>						
+			<entry>
+				<title>Science Academies' Sixty-sixth Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0873-0873</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course on Crystallography, Mineralogy, Igneous Petrology and Thermodynamics</title>
+				<feature>Information and Announcements</feature>
+				<page>0874-0874</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Theoretical Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0875-0875</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Advances in Chemical Sciences and Sustainable Development</title>
+				<feature>Information and Announcements</feature>
+				<page>0876-0876</page>
+				<allauthors/>
+			</entry>		
+			<entry>
+				<title>Science Academies' Summer Research Fellowship Programme for Students and Teachers - 2015</title>
+				<feature>Information and Announcements</feature>
+				<page>0877-0877</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Order Form</title>
+				<feature>Order Form</feature>
+				<page>0878-0878</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Errata: Resonance, Vol.19, No.7, July 2014</title>
+				<feature>Errata</feature>
+				<page>0879-0881</page>
+				<allauthors/>
+			</entry>									
+			<entry>
+				<title>Breynia vitis-idaea</title>
+				<feature>Flowering Trees</feature>
+				<page>0883-0883</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Vladimir Igorevich Arnold</title>
+				<feature>Featured Scientist</feature>
+				<page>0884-0884</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>

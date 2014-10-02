@@ -3,106 +3,173 @@
 
 <res>
 	<volume vnum="19">
-		<issue inum="08" month="08" year="2014">
+        <issue inum="09" month="09" year="2014">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0667-0667</page>
+				<page>0777-0777</page>
 				<allauthors>
 					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
 				</allauthors>
 			</entry>
-			<entry>			
+			<entry>
+				<title>Vladimir Igorevich Arnold (1937-2010)</title>
+				<feature>Article-in-a-Box</feature>
+				<page>0779-0783</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0784-0785</page>
+				<allauthors/>
+			</entry>
+			<entry>
 				<title>Science Smiles</title>
 				<feature>Science Smiles</feature>
-				<page>0670-0670</page>
+				<page>0786-0786</page>
 				<allauthors>
 					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Aneesur Rahman: A Pioneer in Computational Physics</title>
+				<title>Singularities in a Teacup: Good Mathematics from Bad Lenses</title>
 				<feature>General Article</feature>
-				<page>0671-0683</page>
+				<page>0787-0796</page>
 				<allauthors>
-					<author isfellow="0" lname="Sen" fname="Kalidas">Sen, Kalidas</author>
-					<author isfellow="0" lname="Sastry" fname="Srikanth">Sastry, Srikanth</author>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
 				</allauthors>
-			</entry>
+			</entry>									
 			<entry>
-				<title>Enrico Fermi – The Complete Physicist</title>
+				<title>Crossing a Nonlinear Resonance: Adiabatic Invariants and the Melnikov-Arnold Integral</title>
 				<feature>General Article</feature>
-				<page>0684-0703</page>
+				<page>0797-0813</page>
 				<allauthors>
-					<author isfellow="1" lname="Roy" fname="Amit">Roy, Amit</author>
+					<author isfellow="0" lname="Jain" fname="Sudhir R.">Jain, Sudhir R.</author>
 					</allauthors>
 			</entry>
 			<entry>
-				<title>Do Identical Polar Diatomic Molecules Form Stacked or Linear Dimers?: Hydrogen Bonding is Not Just Dipole-Dipole Interactions</title>
+				<title>Schmallenberg Virus: An Emerging New Challenge to Farm Animals</title>
 				<feature>General Article</feature>
-				<page>0704-0712</page>
+				<page>0814-0820</page>
 				<allauthors>
-					<author isfellow="0" lname="Williams" fname="C. W.">Williams, C. W.</author>
-					<author isfellow="0" lname="Zare" fname="R. N.">Zare, R. N.</author>
-					<author isfellow="1" lname="Arunan" fname="E.">Arunan, E.</author>
+					<author isfellow="0" lname="Meyers" fname="Anosha">Meyers, Anosha</author>
+					<author isfellow="0" lname="Tatu" fname="Utpal">Tatu, Utpal</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Variational Monte Carlo Technique: Ground State Energies of Quantum Mechanical Systems</title>
+				<title>Vibration and Sound Damping in Polymers</title>
 				<feature>General Article</feature>
-				<page>0713-0739</page>
+				<page>0821-0833</page>
 				<allauthors>
-					<author isfellow="1" lname="Deb" fname="Sukanta">Sukanta, Deb</author>
+					<author isfellow="0" lname="Geethamma" fname="V. G.">Geethamma, V. G.</author>
+					<author isfellow="0" lname="Asaletha" fname="R.">Asaletha, R.</author>
+					<author isfellow="0" lname="Kalarikkal" fname="Nandakumar">Kalarikkal, Nandakumar </author>
+					<author isfellow="0" lname="Thomas" fname="Sabu">Thomas, Sabu</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>On Embedding a Semigroup in a Group</title>
+				<title>The First Quantum Theory of Molecules</title>
 				<feature>General Article</feature>
-				<page>0740-0752</page>
+				<page>0834-0839</page>
 				<allauthors>
-					<author isfellow="0" lname="Madhusudana Rao" fname="J.">Madhusudana Rao, J.</author>
-					<author isfellow="0" lname="Ramakrishna" fname="A. V.">Ramakrishna, A. V.</author>	
+					<author isfellow="0" lname="Ogilvie" fname="J. F.">Ogilvie, J. F.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Nature Watch: On the Trail of Skinks of the Western Ghats</title>
-				<feature>Feature Article</feature>
-				<page>0753-0763</page>
-				<allauthors>
-					<author isfellow="0" lname="Datta-Roy" fname="Aniruddha">Datta-Roy, Anirudha</author>	
-				</allauthors>
-			</entry>
-			<entry>
-				<title>The Discrete, the Continuous and the 'Concrete': Classical Harmonic Dynamics</title>
+				<title>Sheep Distribution Problem Through Egyptian Fractions</title>
 				<feature>Classroom</feature>
-				<page>0764-0774</page>
+				<page>0840-0763</page>
 				<allauthors>
-					<author isfellow="0" lname="Das" fname="Santanu">Das, Santanu</author>
-					<author isfellow="1" lname="Kumar" fname="N.">Kumar, N.</author>
+					<author isfellow="0" lname="Abbas" fname="Syed">Abbas, Syed</author>	
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Science Academies' Refresher Course on Classical Mechanics and Electromagnetism</title>
+				<title>Converting Chair-like Transition States into Zig-Zag Projections: A Method of Drawing Stereochemical Structures</title>
+				<feature>Classroom</feature>
+				<page>0846-0850</page>
+				<allauthors>
+					<author isfellow="0" lname="Hussaini" fname="Syed R.">Hussaini, Syed R.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>On Teaching Mathematics</title>
+				<feature>Classics</feature>
+				<page>0851-0861</page>
+				<allauthors>
+					<author isfellow="0" lname="Arnold" fname="V. I.">Arnold, V. I.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>On Learning from Arnold's Talk on the Teaching of Mathematics</title>
+				<feature>Classics</feature>
+				<page>0862-0865</page>
+				<allauthors>
+					<author isfellow="0" lname="Paranjape" fname="Kapil Hari">Paranjape, Kapil Hari</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Mathematics Prize Awarded at ICM 2014</title>
+				<feature>Classics</feature>
+				<page>0866-0872</page>
+				<allauthors>
+					<author isfellow="0" lname="Paranjape" fname="Kapil Hari">Paranjape, Kapil Hari</author>
+				</allauthors>
+			</entry>						
+			<entry>
+				<title>Science Academies' Sixty-sixth Refresher Course in Experimental Physics</title>
 				<feature>Information and Announcements</feature>
-				<page>0775-0775</page>
+				<page>0873-0873</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Sixty-sisth Refresher Course in Experimental Physics</title>
+				<title>Science Academies' Refresher Course on Crystallography, Mineralogy, Igneous Petrology and Thermodynamics</title>
 				<feature>Information and Announcements</feature>
-				<page>0776-0776</page>
+				<page>0874-0874</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Antidesma montanum</title>
+				<title>Science Academies' Refresher Course in Theoretical Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0875-0875</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Advances in Chemical Sciences and Sustainable Development</title>
+				<feature>Information and Announcements</feature>
+				<page>0876-0876</page>
+				<allauthors/>
+			</entry>		
+			<entry>
+				<title>Science Academies' Summer Research Fellowship Programme for Students and Teachers - 2015</title>
+				<feature>Information and Announcements</feature>
+				<page>0877-0877</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Order Form</title>
+				<feature>Order Form</feature>
+				<page>0878-0878</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Errata: Resonance, Vol.19, No.7, July 2014</title>
+				<feature>Errata</feature>
+				<page>0879-0881</page>
+				<allauthors/>
+			</entry>									
+			<entry>
+				<title>Breynia vitis-idaea</title>
 				<feature>Flowering Trees</feature>
-				<page>0777-0777</page>
+				<page>0883-0883</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Aneesur Rahman(1927–1987)</title>
+				<title>Vladimir Igorevich Arnold</title>
 				<feature>Featured Scientist</feature>
-				<page>0778-0778</page>
+				<page>0884-0884</page>
 				<allauthors/>
 			</entry>
 		</issue>

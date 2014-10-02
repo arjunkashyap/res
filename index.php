@@ -100,10 +100,10 @@ $title_cv_display = preg_replace("/\<\/sub\>/", "", $title_cv_display);
 		<div class="ci_holder_mask">
 			<div class="ci_column1">
 				<?php print_widget("General Article", 1); ?>
-				<?php print_widget("Classics", 1); ?>
 				<?php print_widget("Think It Over", 1); ?>
 				<?php print_widget("Series Article", 1); ?>
 				<?php print_widget("Feature Article", 1); ?>
+				<?php print_widget("Information and Announcements", 1); ?>
 			</div>
 			<div class="ci_column2">
 				<?php print_widget("General Editorial", 1); ?>
@@ -113,7 +113,7 @@ $title_cv_display = preg_replace("/\<\/sub\>/", "", $title_cv_display);
 				<?php print_widget("Science Smiles", 1); ?>
 				<?php print_widget("Classroom", 1); ?>
 				<?php print_widget("Book Review", 1); ?>
-				<?php print_widget("Information and Announcements", 1); ?>
+				<?php print_widget("Classics", 1); ?>
 				<?php print_widget("Our Readers Write", 1); ?>
 				<?php print_widget("Reflections", 1); ?>
 			</div>

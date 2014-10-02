@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="19" inum="08" month="08" year="2014">
+<current_issue vnum="19" inum="09" month="09" year="2014">
 	<feature_article>
 		<entry>
-			<title>Aneesur Rahman: A Pioneer in Computational Physics</title>
+			<title>Singularities in a Teacup</title>
 			<text></text>
-			<page>0671-0683</page>
+			<page>0787-0796</page>
 		</entry>
 		<entry>
-			<title>Enrico Fermi – The Complete Physicist</title>
+			<title>Crossing a Nonlinear Resonance</title>
 			<text></text>
-			<page>0684-0703</page>
+			<page>0797-0813</page>
 		</entry>
 		<entry>
-			<title>Variational MC Technique</title>
+			<title>Schmallenberg Virus</title>
 			<text></text>
-			<page>0713-0739</page>
+			<page>0814-820</page>
 		</entry>
 		<entry>
-			<title>Hydrogen Bonding</title>
+			<title>Vibration and Sound Damping in Polymers</title>
 			<text></text>
-			<page>0704-0712</page>
+			<page>0821-0833</page>
 			</entry>
 		<entry>
-			<title>Embedding a Semigroup in a Group</title>
+			<title>Quantization of Rotational Motion - The First Attempt</title>
 			<text></text>
-			<page>0740-0752</page>
+			<page>0834-839</page>
 		</entry>
 		<entry>
-			<title>Skinks of the Western Ghats</title>
+			<title>Sheep Distribution Problem</title>
 			<text></text>
-			<page>0753-0763</page>
+			<page>0840-0845</page>
 		</entry>	
 		<entry>
-			<title>Classical Harmonic Dynamics</title>
+			<title>Zig-Zag Projections</title>
 			<text></text>
-			<page>0764-0774</page>
+			<page>0846-0850</page>
 		</entry>
 	</feature_article>			
 		<entry>
 			<title>Editorial</title>
-			<author>K.L. Sebastian</author>
+			<author>K. L. Sebastian</author>
 			<text></text>
-			<page>0667-0667</page>
+			<page>0777-0778</page>
 		</entry>
 	<cover>
 		<entry>
-			<title>Molecular simulation of an ice crystal. This view is looking down the hexagonal channel in the crystal. See article on page 671. Courtesy: Shekhar Garde, Linda Schadler and Richard W Siegel, http://www.molecularium.com</title>
+			<title>Two themes with a strong geometric content, relating to the work of Vladimir Arnold. The upper figure shows his famous 'cat map' which illustrates how a simple, reversible transformation of the plane applied to a rather orderly figure (a cat) can apparently create a fully mixed figure. The lower panel shows how a simple rule of optics can generate singularities; the high brightness along the cusp in the ray diagram, and the corresponding sharp folding over of the wavefront into three sheets. The astronomical backdrop evokes the fundamental contribution of the KAM theory to the dynamics of celestial bodies. (See articles on pages 787 and 797.) Credit: http://commons.wikimedia.org/wiki/File:Arnold_cat.png</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Aneesur Rahman</title>
-			<text>1927&#8211;1987</text>
+			<title>Vladimir Igorevich Arnold</title>
+			<text>1937&#8211;2010</text>
 		</entry>
 	</bcover>
 </current_issue>
