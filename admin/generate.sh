@@ -48,9 +48,14 @@ perl searchtable.pl $host $db $usr $pwd $volume $issue
 
 echo "\nInsertion of text and search engine optimization has been completed sucessfully\n"
 
-cp issue.png ../php/images/
-convert issue.png -resize '100x150^' cur_issue.png
-mv cur_issue.png ../php/images/
+convert issue.png -resize 'x150' ../php/images/cur_issue.png
+convert issue.png -resize 'x700' ../php/cover/main/cover_"$volume"_"$issue".png
+convert issue.png -resize 'x110' ../php/cover/thumbs/cover_"$volume"_"$issue".png
+cp issue.png ../php/images/issue_full_size.png
+convert issue.png -resize 'x200' ../php/images/issue.png
+
+convert back.png -resize 'x120' ../php/images/p_image.png
+cp back.png ../php/images/back_full_size.png
 
 perl update_connect.pl $host $db $usr $pwd $volume $issue
 
