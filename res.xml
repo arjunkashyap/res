@@ -28134,5 +28134,120 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="10" month="10" year="2014">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0883-0883</page>
+				<allauthors>
+					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
+				</allauthors>
+			</entry>
+            <entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0884-0885</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0886-0886</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Yelavarthy Nayudamma: Scientist, Leader, and Mentor Extraordinary</title>
+				<feature>General Article</feature>
+				<page>0887-0899</page>
+				<allauthors>
+					<author isfellow="0" lname="Rao" fname="J. Raghava">Rao, J. Raghava</author>
+					<author isfellow="0" lname="Ramasami" fname="T.">Ramasami, T.</author>					
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Wigner's Symmetry Representation Theorem: At the Heart of Quantum Field Theory!</title>
+				<feature>General Article</feature>
+				<page>0900-0916</page>
+				<allauthors>
+					<author isfellow="0" lname="Mukhopadhyay" fname="Aritra Kr.">Mukhopadhyay, Aritra Kr.</author>
+					</allauthors>
+			</entry>
+			<entry>
+				<title>Steve Jobs - Who Blended Art with Technology</title>
+				<feature>General Article</feature>
+				<page>0917-0935</page>
+				<allauthors>
+					<author isfellow="1" lname="Rajaraman" fname="V.">Rajaraman, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Hunting in Groups</title>
+				<feature>General Article</feature>
+				<page>0936-0957</page>
+				<allauthors>
+					<author isfellow="0" lname="Dutta" fname="Kishore">Dutta, Kishore</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Molecule of the Month: Mercurous Nitrite</title>
+				<feature>Feature Article</feature>
+				<page>0958-0960</page>
+				<allauthors>
+					<author isfellow="0" lname="Ghosh" fname="Rajarshi">Ghosh, Rajarshi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Leather in Our National Life</title>
+				<feature>Reflections</feature>
+				<page>0961-0965</page>
+				<allauthors>
+					<author isfellow="0" lname="Nayudamma" fname="Y.">Nayudamma, Y.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Breakthrough Prize</title>
+				<feature>Information and Announcements</feature>
+				<page>0966-0967</page>
+				<allauthors>
+					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>	
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Breakthrough Prize</title>
+				<feature>Information and Announcements</feature>
+				<page>0968-0968</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Breakthrough Prize</title>
+				<feature>Information and Announcements</feature>
+				<page>0968-0969</page>
+				<allauthors>
+					<author isfellow="0" lname="Chakravortty" fname="Dipshikha">Chakravortty, Dipshikha</author>	
+				</allauthors>	
+			</entry>			
+			<entry>
+				<title>Science Academies' Refresher Course on Crystallography, Mineralogy, Igneous Petrology and Thermodynamics</title>
+				<feature>Information and Announcements</feature>
+				<page>0970-0970</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Colebrookea oppositifolia</title>
+				<feature>Flowering Trees</feature>
+				<page>0971-0971</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Yelavarthy Nayudamma</title>
+				<feature>Featured Scientist</feature>
+				<page>0972-0972</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>

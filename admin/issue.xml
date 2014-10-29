@@ -3,173 +3,118 @@
 
 <res>
 	<volume vnum="19">
-        <issue inum="09" month="09" year="2014">
+		<issue inum="10" month="10" year="2014">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0777-0777</page>
+				<page>0883-0883</page>
 				<allauthors>
 					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>Vladimir Igorevich Arnold (1937-2010)</title>
-				<feature>Article-in-a-Box</feature>
-				<page>0779-0783</page>
-				<allauthors>
-					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
-				</allauthors>
-			</entry>			
-			<entry>
+            <entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>0784-0785</page>
+				<page>0884-0885</page>
 				<allauthors/>
 			</entry>
 			<entry>
 				<title>Science Smiles</title>
 				<feature>Science Smiles</feature>
-				<page>0786-0786</page>
+				<page>0886-0886</page>
 				<allauthors>
 					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Singularities in a Teacup: Good Mathematics from Bad Lenses</title>
+				<title>Yelavarthy Nayudamma: Scientist, Leader, and Mentor Extraordinary</title>
 				<feature>General Article</feature>
-				<page>0787-0796</page>
+				<page>0887-0899</page>
 				<allauthors>
-					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+					<author isfellow="0" lname="Rao" fname="J. Raghava">Rao, J. Raghava</author>
+					<author isfellow="0" lname="Ramasami" fname="T.">Ramasami, T.</author>					
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>Crossing a Nonlinear Resonance: Adiabatic Invariants and the Melnikov-Arnold Integral</title>
+				<title>Wigner's Symmetry Representation Theorem: At the Heart of Quantum Field Theory!</title>
 				<feature>General Article</feature>
-				<page>0797-0813</page>
+				<page>0900-0916</page>
 				<allauthors>
-					<author isfellow="0" lname="Jain" fname="Sudhir R.">Jain, Sudhir R.</author>
+					<author isfellow="0" lname="Mukhopadhyay" fname="Aritra Kr.">Mukhopadhyay, Aritra Kr.</author>
 					</allauthors>
 			</entry>
 			<entry>
-				<title>Schmallenberg Virus: An Emerging New Challenge to Farm Animals</title>
+				<title>Steve Jobs - Who Blended Art with Technology</title>
 				<feature>General Article</feature>
-				<page>0814-0820</page>
+				<page>0917-0935</page>
 				<allauthors>
-					<author isfellow="0" lname="Meyers" fname="Anosha">Meyers, Anosha</author>
-					<author isfellow="0" lname="Tatu" fname="Utpal">Tatu, Utpal</author>
+					<author isfellow="1" lname="Rajaraman" fname="V.">Rajaraman, V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Vibration and Sound Damping in Polymers</title>
+				<title>Hunting in Groups</title>
 				<feature>General Article</feature>
-				<page>0821-0833</page>
+				<page>0936-0957</page>
 				<allauthors>
-					<author isfellow="0" lname="Geethamma" fname="V. G.">Geethamma, V. G.</author>
-					<author isfellow="0" lname="Asaletha" fname="R.">Asaletha, R.</author>
-					<author isfellow="0" lname="Kalarikkal" fname="Nandakumar">Kalarikkal, Nandakumar </author>
-					<author isfellow="0" lname="Thomas" fname="Sabu">Thomas, Sabu</author>
+					<author isfellow="0" lname="Dutta" fname="Kishore">Dutta, Kishore</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The First Quantum Theory of Molecules</title>
-				<feature>General Article</feature>
-				<page>0834-0839</page>
+				<title>Molecule of the Month: Mercurous Nitrite</title>
+				<feature>Feature Article</feature>
+				<page>0958-0960</page>
 				<allauthors>
-					<author isfellow="0" lname="Ogilvie" fname="J. F.">Ogilvie, J. F.</author>
+					<author isfellow="0" lname="Ghosh" fname="Rajarshi">Ghosh, Rajarshi</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sheep Distribution Problem Through Egyptian Fractions</title>
-				<feature>Classroom</feature>
-				<page>0840-0763</page>
+				<title>Leather in Our National Life</title>
+				<feature>Reflections</feature>
+				<page>0961-0965</page>
 				<allauthors>
-					<author isfellow="0" lname="Abbas" fname="Syed">Abbas, Syed</author>	
+					<author isfellow="0" lname="Nayudamma" fname="Y.">Nayudamma, Y.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Converting Chair-like Transition States into Zig-Zag Projections: A Method of Drawing Stereochemical Structures</title>
-				<feature>Classroom</feature>
-				<page>0846-0850</page>
-				<allauthors>
-					<author isfellow="0" lname="Hussaini" fname="Syed R.">Hussaini, Syed R.</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>On Teaching Mathematics</title>
-				<feature>Classics</feature>
-				<page>0851-0861</page>
-				<allauthors>
-					<author isfellow="0" lname="Arnold" fname="V. I.">Arnold, V. I.</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>On Learning from Arnold's Talk on the Teaching of Mathematics</title>
-				<feature>Classics</feature>
-				<page>0862-0865</page>
-				<allauthors>
-					<author isfellow="0" lname="Paranjape" fname="Kapil Hari">Paranjape, Kapil Hari</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>Mathematics Prize Awarded at ICM 2014</title>
-				<feature>Classics</feature>
-				<page>0866-0872</page>
-				<allauthors>
-					<author isfellow="0" lname="Paranjape" fname="Kapil Hari">Paranjape, Kapil Hari</author>
-				</allauthors>
-			</entry>						
-			<entry>
-				<title>Science Academies' Sixty-sixth Refresher Course in Experimental Physics</title>
+				<title>Breakthrough Prize</title>
 				<feature>Information and Announcements</feature>
-				<page>0873-0873</page>
-				<allauthors/>
+				<page>0966-0967</page>
+				<allauthors>
+					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>	
+				</allauthors>	
 			</entry>
+			<entry>
+				<title>Breakthrough Prize</title>
+				<feature>Information and Announcements</feature>
+				<page>0968-0968</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Breakthrough Prize</title>
+				<feature>Information and Announcements</feature>
+				<page>0968-0969</page>
+				<allauthors>
+					<author isfellow="0" lname="Chakravortty" fname="Dipshikha">Chakravortty, Dipshikha</author>	
+				</allauthors>	
+			</entry>			
 			<entry>
 				<title>Science Academies' Refresher Course on Crystallography, Mineralogy, Igneous Petrology and Thermodynamics</title>
 				<feature>Information and Announcements</feature>
-				<page>0874-0874</page>
+				<page>0970-0970</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Science Academies' Refresher Course in Theoretical Physics</title>
-				<feature>Information and Announcements</feature>
-				<page>0875-0875</page>
-				<allauthors/>
-			</entry>
-			<entry>
-				<title>Science Academies' Refresher Course in Advances in Chemical Sciences and Sustainable Development</title>
-				<feature>Information and Announcements</feature>
-				<page>0876-0876</page>
-				<allauthors/>
-			</entry>		
-			<entry>
-				<title>Science Academies' Summer Research Fellowship Programme for Students and Teachers - 2015</title>
-				<feature>Information and Announcements</feature>
-				<page>0877-0877</page>
-				<allauthors/>
-			</entry>			
-			<entry>
-				<title>Order Form</title>
-				<feature>Order Form</feature>
-				<page>0878-0878</page>
-				<allauthors/>
-			</entry>			
-			<entry>
-				<title>Errata: Resonance, Vol.19, No.7, July 2014</title>
-				<feature>Errata</feature>
-				<page>0879-0881</page>
-				<allauthors/>
-			</entry>									
-			<entry>
-				<title>Breynia vitis-idaea</title>
+				<title>Colebrookea oppositifolia</title>
 				<feature>Flowering Trees</feature>
-				<page>0883-0883</page>
+				<page>0971-0971</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Vladimir Igorevich Arnold</title>
+				<title>Yelavarthy Nayudamma</title>
 				<feature>Featured Scientist</feature>
-				<page>0884-0884</page>
+				<page>0972-0972</page>
 				<allauthors/>
 			</entry>
 		</issue>

@@ -1,59 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="19" inum="09" month="09" year="2014">
+<current_issue vnum="19" inum="10" month="10" year="2014">
 	<feature_article>
 		<entry>
-			<title>Singularities in a Teacup</title>
+			<title>Yelavarthy Nayudamma</title>
 			<text></text>
-			<page>0787-0796</page>
+			<page>0887-0899</page>
 		</entry>
 		<entry>
-			<title>Crossing a Nonlinear Resonance</title>
+			<title>Leather in our National Life</title>
 			<text></text>
-			<page>0797-0813</page>
+			<page>0961-0965</page>
 		</entry>
 		<entry>
-			<title>Schmallenberg Virus</title>
+			<title>Wigner's Symmetry Representation Theorem</title>
 			<text></text>
-			<page>0814-820</page>
+			<page>0900-0916</page>
 		</entry>
 		<entry>
-			<title>Vibration and Sound Damping in Polymers</title>
+			<title>Hunting in Groups - Dynamics of Chase and Escape</title>
 			<text></text>
-			<page>0821-0833</page>
+			<page>0936-0957</page>
 			</entry>
 		<entry>
-			<title>Quantization of Rotational Motion - The First Attempt</title>
+			<title>Steve Jobs</title>
 			<text></text>
-			<page>0834-839</page>
+			<page>0917-0935</page>
 		</entry>
 		<entry>
-			<title>Sheep Distribution Problem</title>
+			<title>Mercurous Nitrite</title>
 			<text></text>
-			<page>0840-0845</page>
+			<page>0958-0960</page>
 		</entry>	
-		<entry>
-			<title>Zig-Zag Projections</title>
-			<text></text>
-			<page>0846-0850</page>
-		</entry>
 	</feature_article>			
 		<entry>
 			<title>Editorial</title>
-			<author>K. L. Sebastian</author>
+			<author>K.L. Sebastian</author>
 			<text></text>
-			<page>0777-0778</page>
+			<page>0883-0883</page>
 		</entry>
 	<cover>
 		<entry>
-			<title>Two themes with a strong geometric content, relating to the work of Vladimir Arnold. The upper figure shows his famous 'cat map' which illustrates how a simple, reversible transformation of the plane applied to a rather orderly figure (a cat) can apparently create a fully mixed figure. The lower panel shows how a simple rule of optics can generate singularities; the high brightness along the cusp in the ray diagram, and the corresponding sharp folding over of the wavefront into three sheets. The astronomical backdrop evokes the fundamental contribution of the KAM theory to the dynamics of celestial bodies. (See articles on pages 787 and 797.) Credit: http://commons.wikimedia.org/wiki/File:Arnold_cat.png</title>
+			<title>Leather products. See article on p.961</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Vladimir Igorevich Arnold</title>
-			<text>1937&#8211;2010</text>
+			<title>Yelavarthy Nayudamma</title>
+			<text>1922&#8211;1985</text>
 		</entry>
 	</bcover>
 </current_issue>
