@@ -3,118 +3,150 @@
 
 <res>
 	<volume vnum="19">
-		<issue inum="10" month="10" year="2014">
+		<issue inum="11" month="11" year="2014">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0883-0883</page>
+				<page>0971-0971</page>
 				<allauthors>
 					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Georg Cantor (1845-1918)</title>
+				<feature>Article-in-a-Box</feature>
+				<page>0972-0973</page>
+				<allauthors>
+					<author isfellow="0" lname="Srivastava" fname="S. M.">Srivastava, S. M.</author>
 				</allauthors>
 			</entry>
             <entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>0884-0885</page>
+				<page>0974-0975</page>
 				<allauthors/>
 			</entry>
-			<entry>
+			<entry>			
 				<title>Science Smiles</title>
 				<feature>Science Smiles</feature>
-				<page>0886-0886</page>
+				<page>0976-0976</page>
 				<allauthors>
 					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Yelavarthy Nayudamma: Scientist, Leader, and Mentor Extraordinary</title>
+				<title>How did Cantor Discover Set Theory and Topology?</title>
 				<feature>General Article</feature>
-				<page>0887-0899</page>
+				<page>0977-0999</page>
 				<allauthors>
-					<author isfellow="0" lname="Rao" fname="J. Raghava">Rao, J. Raghava</author>
-					<author isfellow="0" lname="Ramasami" fname="T.">Ramasami, T.</author>					
+					<author isfellow="0" lname="Srivastava" fname="S. M.">Srivastava, S. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Fractal Dimension and the Cantor Set</title>
+				<feature>General Article</feature>
+				<page>1000-1004</page>
+				<allauthors>
+					<author isfellow="0" lname="Shirali" fname="Shailesh A.">Shirali, Shailesh A.</author>
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>Wigner's Symmetry Representation Theorem: At the Heart of Quantum Field Theory!</title>
+				<title>Biofilms: Community Behavior by Bacteria</title>
 				<feature>General Article</feature>
-				<page>0900-0916</page>
+				<page>1005-1016</page>
 				<allauthors>
-					<author isfellow="0" lname="Mukhopadhyay" fname="Aritra Kr.">Mukhopadhyay, Aritra Kr.</author>
-					</allauthors>
+					<author isfellow="0" lname="Chakravortty" fname="Dipshikha">Chakravortty, Dipshikha</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Steve Jobs - Who Blended Art with Technology</title>
+				<title>Frustrated Lewis Pairs : Enabling via inability</title>
 				<feature>General Article</feature>
-				<page>0917-0935</page>
+				<page>1017-1027</page>
 				<allauthors>
-					<author isfellow="1" lname="Rajaraman" fname="V.">Rajaraman, V.</author>
+					<author isfellow="0" lname="Mukherjee" fname="Sanjoy">Mukherjee, Sanjoy</author>
+                    <author isfellow="0" lname="Thilagar" fname="Pakkirisamy">Thilagar, Pakkirisamy</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Hunting in Groups</title>
+				<title>Goldbach Partitions and Sequences</title>
 				<feature>General Article</feature>
-				<page>0936-0957</page>
+				<page>1028-1037</page>
 				<allauthors>
-					<author isfellow="0" lname="Dutta" fname="Kishore">Dutta, Kishore</author>
+					<author isfellow="0" lname="Kak" fname="Subhash">Kak, Subhash</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Molecule of the Month: Mercurous Nitrite</title>
-				<feature>Feature Article</feature>
-				<page>0958-0960</page>
+				<title>Some Remarks on Iterated Maps of Natural Numbers</title>
+				<feature>Gemeral Article</feature>
+				<page>1038-1046</page>
 				<allauthors>
-					<author isfellow="0" lname="Ghosh" fname="Rajarshi">Ghosh, Rajarshi</author>
+					<author isfellow="0" lname="Herzberg" fname="Agnes M.">Herzberg, Agnes M.</author>
+					<author isfellow="0" lname="Murty" fname="M. Ram">Murty, M. Ram</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Leather in Our National Life</title>
-				<feature>Reflections</feature>
-				<page>0961-0965</page>
+				<title>Finite Amplitude Ocean Waves : Waves with Peaked Crests and Broad Troughs</title>
+				<feature>General Article</feature>
+				<page>1047-1057</page>
 				<allauthors>
-					<author isfellow="0" lname="Nayudamma" fname="Y.">Nayudamma, Y.</author>
+					<author isfellow="0" lname="Varma" fname="K. K.">Varma, K. K.</author>	
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Breakthrough Prize</title>
-				<feature>Information and Announcements</feature>
-				<page>0966-0967</page>
+				<title>From Adiabatic Invariance to Wien's Displacement Law</title>
+				<feature>Classroom</feature>
+				<page>1058-1060</page>
 				<allauthors>
-					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>	
-				</allauthors>	
-			</entry>
-			<entry>
-				<title>Breakthrough Prize</title>
-				<feature>Information and Announcements</feature>
-				<page>0968-0968</page>
-				<allauthors>
-					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
-				</allauthors>	
-			</entry>
-			<entry>
-				<title>Breakthrough Prize</title>
-				<feature>Information and Announcements</feature>
-				<page>0968-0969</page>
-				<allauthors>
-					<author isfellow="0" lname="Chakravortty" fname="Dipshikha">Chakravortty, Dipshikha</author>	
-				</allauthors>	
+					<author isfellow="0" lname="Jain" fname="Sudhir R.">Jain, Sudhir R.</author>
+					<author isfellow="0" lname="Jain" fname="Manan">Jain, Manan</author>		
+				</allauthors>
 			</entry>			
 			<entry>
-				<title>Science Academies' Refresher Course on Crystallography, Mineralogy, Igneous Petrology and Thermodynamics</title>
+				<title>Think It Over</title>
+				<feature>Think It Over</feature>
+				<page>1061-1061</page>
+				<allauthors>
+					<author isfellow="0" lname="Bhanu" fname="K. S.">Bhanu, K. S.</author>
+					<author isfellow="0" lname="Deshpande" fname="M. N.">Deshpande, M. N.</author>		
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Our Readers Write...</title>
+				<feature>Our Readers Write</feature>
+				<page>1062-1065</page>
+				<allauthors>
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Nobel Prize 2014</title>
 				<feature>Information and Announcements</feature>
-				<page>0970-0970</page>
+				<page>1066-1066</page>
+				<allauthors>
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>SynGrant</title>
+				<feature>Information and Announcements</feature>
+				<page>1067-1067</page>
+				<allauthors>
+				</allauthors>	
+			</entry>								
+			<entry>
+				<title>Order Form</title>
+				<feature>Order Form</feature>
+				<page>1068-1068</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Colebrookea oppositifolia</title>
+				<title>Canthium dicoccum (Gaertn.)</title>
 				<feature>Flowering Trees</feature>
-				<page>0971-0971</page>
+				<page>1069-1069</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Yelavarthy Nayudamma</title>
+				<title>Georg Cantor</title>
 				<feature>Featured Scientist</feature>
-				<page>0972-0972</page>
+				<page>1070-1070</page>
 				<allauthors/>
 			</entry>
 		</issue>

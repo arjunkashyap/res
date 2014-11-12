@@ -28249,5 +28249,152 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="11" month="11" year="2014">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0971-0971</page>
+				<allauthors>
+					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Georg Cantor (1845-1918)</title>
+				<feature>Article-in-a-Box</feature>
+				<page>0972-0973</page>
+				<allauthors>
+					<author isfellow="0" lname="Srivastava" fname="S. M.">Srivastava, S. M.</author>
+				</allauthors>
+			</entry>
+            <entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0974-0975</page>
+				<allauthors/>
+			</entry>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0976-0976</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>How did Cantor Discover Set Theory and Topology?</title>
+				<feature>General Article</feature>
+				<page>0977-0999</page>
+				<allauthors>
+					<author isfellow="0" lname="Srivastava" fname="S. M.">Srivastava, S. M.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Fractal Dimension and the Cantor Set</title>
+				<feature>General Article</feature>
+				<page>1000-1004</page>
+				<allauthors>
+					<author isfellow="0" lname="Shirali" fname="Shailesh A.">Shirali, Shailesh A.</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Biofilms: Community Behavior by Bacteria</title>
+				<feature>General Article</feature>
+				<page>1005-1016</page>
+				<allauthors>
+					<author isfellow="0" lname="Chakravortty" fname="Dipshikha">Chakravortty, Dipshikha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Frustrated Lewis Pairs : Enabling via inability</title>
+				<feature>General Article</feature>
+				<page>1017-1027</page>
+				<allauthors>
+					<author isfellow="0" lname="Mukherjee" fname="Sanjoy">Mukherjee, Sanjoy</author>
+                    <author isfellow="0" lname="Thilagar" fname="Pakkirisamy">Thilagar, Pakkirisamy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Goldbach Partitions and Sequences</title>
+				<feature>General Article</feature>
+				<page>1028-1037</page>
+				<allauthors>
+					<author isfellow="0" lname="Kak" fname="Subhash">Kak, Subhash</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Some Remarks on Iterated Maps of Natural Numbers</title>
+				<feature>Gemeral Article</feature>
+				<page>1038-1046</page>
+				<allauthors>
+					<author isfellow="0" lname="Herzberg" fname="Agnes M.">Herzberg, Agnes M.</author>
+					<author isfellow="0" lname="Murty" fname="M. Ram">Murty, M. Ram</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Finite Amplitude Ocean Waves : Waves with Peaked Crests and Broad Troughs</title>
+				<feature>General Article</feature>
+				<page>1047-1057</page>
+				<allauthors>
+					<author isfellow="0" lname="Varma" fname="K. K.">Varma, K. K.</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>From Adiabatic Invariance to Wien's Displacement Law</title>
+				<feature>Classroom</feature>
+				<page>1058-1060</page>
+				<allauthors>
+					<author isfellow="0" lname="Jain" fname="Sudhir R.">Jain, Sudhir R.</author>
+					<author isfellow="0" lname="Jain" fname="Manan">Jain, Manan</author>		
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Think It Over</title>
+				<feature>Think It Over</feature>
+				<page>1061-1061</page>
+				<allauthors>
+					<author isfellow="0" lname="Bhanu" fname="K. S.">Bhanu, K. S.</author>
+					<author isfellow="0" lname="Deshpande" fname="M. N.">Deshpande, M. N.</author>		
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Our Readers Write...</title>
+				<feature>Our Readers Write</feature>
+				<page>1062-1065</page>
+				<allauthors>
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>Nobel Prize 2014</title>
+				<feature>Information and Announcements</feature>
+				<page>1066-1066</page>
+				<allauthors>
+				</allauthors>	
+			</entry>
+			<entry>
+				<title>SynGrant</title>
+				<feature>Information and Announcements</feature>
+				<page>1067-1067</page>
+				<allauthors>
+				</allauthors>	
+			</entry>								
+			<entry>
+				<title>Order Form</title>
+				<feature>Order Form</feature>
+				<page>1068-1068</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Canthium dicoccum (Gaertn.)</title>
+				<feature>Flowering Trees</feature>
+				<page>1069-1069</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Georg Cantor</title>
+				<feature>Featured Scientist</feature>
+				<page>1070-1070</page>
+				<allauthors/>
+			</entry>
+		</issue>        
 	</volume>
 </res>

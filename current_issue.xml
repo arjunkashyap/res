@@ -1,54 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="19" inum="10" month="10" year="2014">
+<current_issue vnum="19" inum="11" month="11" year="2014">
 	<feature_article>
 		<entry>
-			<title>Yelavarthy Nayudamma</title>
+			<title>How did Cantor Discover Set Theory and Topology?</title>
 			<text></text>
-			<page>0887-0899</page>
+			<page>0977-0999</page>
 		</entry>
 		<entry>
-			<title>Leather in our National Life</title>
+			<title>Frustrated Lewis pairs</title>
 			<text></text>
-			<page>0961-0965</page>
+			<page>1017-1027</page>
 		</entry>
 		<entry>
-			<title>Wigner's Symmetry Representation Theorem</title>
+			<title>Biofilms</title>
 			<text></text>
-			<page>0900-0916</page>
+			<page>1005-1016</page>
 		</entry>
 		<entry>
-			<title>Hunting in Groups - Dynamics of Chase and Escape</title>
+			<title>Iterated Maps of Natural Numbers</title>
 			<text></text>
-			<page>0936-0957</page>
+			<page>1038-1046</page>
 			</entry>
 		<entry>
-			<title>Steve Jobs</title>
+			<title>Goldbach Partitions and Sequence</title>
 			<text></text>
-			<page>0917-0935</page>
+			<page>1028-1037</page>
 		</entry>
 		<entry>
-			<title>Mercurous Nitrite</title>
+			<title>Finite Amplitude Ocean Waves</title>
 			<text></text>
-			<page>0958-0960</page>
+			<page>1047-1057</page>
 		</entry>	
 	</feature_article>			
 		<entry>
 			<title>Editorial</title>
 			<author>K.L. Sebastian</author>
 			<text></text>
-			<page>0883-0883</page>
+			<page>0971-0971</page>
 		</entry>
 	<cover>
 		<entry>
-			<title>Leather products. See article on p.961</title>
+			<title>The Mandelbrot set is named after Benoit Mandelbrot (20th November 1924-14th October 2010) was a Polish-born, French and American mathematician. This is the set of complex numbers c for which the sequence of points defined by the iteration 'square and add c to get the next point' starting from 0, remains in a bounded region. This is a fractal, meaning a pattern composed of smaller copies of iteself and infinitum. (See article on page 1000.)</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Yelavarthy Nayudamma</title>
-			<text>1922&#8211;1985</text>
+			<title>Georg Cantor</title>
+			<text>1845&#8211;1918</text>
 		</entry>
 	</bcover>
 </current_issue>
