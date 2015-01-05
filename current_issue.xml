@@ -1,54 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="19" inum="11" month="11" year="2014">
+<current_issue vnum="19" inum="12" month="12" year="2014">
 	<feature_article>
 		<entry>
-			<title>How did Cantor Discover Set Theory and Topology?</title>
+			<title>Early Developments in Crystallography</title>
 			<text></text>
-			<page>0977-0999</page>
+			<page>1077-1086</page>
 		</entry>
 		<entry>
-			<title>Frustrated Lewis pairs</title>
+			<title>Crystallography Beyond Crystals</title>
 			<text></text>
-			<page>1017-1027</page>
+			<page>1177-1196</page>
 		</entry>
 		<entry>
-			<title>Biofilms</title>
+			<title>Metal Organic Framework</title>
 			<text></text>
-			<page>1005-1016</page>
+			<page>1147-1157</page>
 		</entry>
 		<entry>
-			<title>Iterated Maps of Natural Numbers</title>
+			<title>The World behind the Word 'Structure'</title>
 			<text></text>
-			<page>1038-1046</page>
+			<page>1115-1129</page>
 			</entry>
 		<entry>
-			<title>Goldbach Partitions and Sequence</title>
+			<title>The Art of in situ Cryocrystallization</title>
 			<text></text>
-			<page>1028-1037</page>
+			<page>1104-1114</page>
 		</entry>
 		<entry>
-			<title>Finite Amplitude Ocean Waves</title>
+			<title>Modern Piezoelectrics</title>
 			<text></text>
-			<page>1047-1057</page>
-		</entry>	
+			<page>1130-1146</page>
+		</entry>
+		<entry>
+			<title>Crystallography and Drug Design</title>
+			<text></text>
+			<page>1093-1103</page>
+		</entry>
+		<entry>
+			<title>Why do We Trust X-ray Crystallography?</title>
+			<text></text>
+			<page>1087-1092</page>
+		</entry>
+		<entry>
+			<title>Grazing Incidence X-ray Scattering and Diffraction</title>
+			<text></text>
+			<page>1158-1176</page>
+		</entry>							
 	</feature_article>			
 		<entry>
 			<title>Editorial</title>
-			<author>K.L. Sebastian</author>
+			<author>T. N. Guru Row and Angshuman Roy Choudhury</author>
 			<text></text>
-			<page>0971-0971</page>
+			<page>1069-1070</page>
 		</entry>
 	<cover>
 		<entry>
-			<title>The Mandelbrot set is named after Benoit Mandelbrot (20th November 1924-14th October 2010) was a Polish-born, French and American mathematician. This is the set of complex numbers c for which the sequence of points defined by the iteration 'square and add c to get the next point' starting from 0, remains in a bounded region. This is a fractal, meaning a pattern composed of smaller copies of iteself and infinitum. (See article on page 1000.)</title>
+			<title>Stamp issued by the Department of Posts, India to commemorate International Year of Crystallography 2014 (IYCr).</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Georg Cantor</title>
-			<text>1845&#8211;1918</text>
+			<title>Sir William Henry Bragg<br />(1862&#8211;1942) and<br />William Lawrence Bragg<br />(1890&#8211;1971)</title>
+            <text></text>
 		</entry>
 	</bcover>
 </current_issue>

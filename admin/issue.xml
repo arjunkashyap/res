@@ -3,150 +3,151 @@
 
 <res>
 	<volume vnum="19">
-		<issue inum="11" month="11" year="2014">
+		<issue inum="12" month="12" year="2014">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0971-0971</page>
+				<page>1069-1070</page>
 				<allauthors>
-					<author isfellow="1" lname="Sebastian" fname="K. L.">Sebastian, K. L.</author>
+					<author isfellow="1" lname="Row" fname="T. N. Guru">Row, T. N. Guru</author>
+					<author isfellow="0" lname="Choudhury" fname="Angshuman Roy">Choudhury, Angshuman Roy</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Georg Cantor (1845-1918)</title>
+				<title>The Beginnings of X-ray Crystallography: A Profile on the Two Braggs</title>
 				<feature>Article-in-a-Box</feature>
-				<page>0972-0973</page>
+				<page>1071-1073</page>
 				<allauthors>
-					<author isfellow="0" lname="Srivastava" fname="S. M.">Srivastava, S. M.</author>
+					<author isfellow="1" lname="Row" fname="T. N. Guru">Row, T. N. Guru</author>
 				</allauthors>
 			</entry>
             <entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>0974-0975</page>
+				<page>1074-1075</page>
 				<allauthors/>
 			</entry>
-			<entry>			
+			<entry>
 				<title>Science Smiles</title>
 				<feature>Science Smiles</feature>
-				<page>0976-0976</page>
+				<page>1076-1076</page>
 				<allauthors>
 					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>How did Cantor Discover Set Theory and Topology?</title>
+				<title>Early Developments in Crystallography</title>
 				<feature>General Article</feature>
-				<page>0977-0999</page>
+				<page>1077-1086</page>
 				<allauthors>
-					<author isfellow="0" lname="Srivastava" fname="S. M.">Srivastava, S. M.</author>
+					<author isfellow="0" lname="Mande" fname="Shekhar">Mande, Shekhar</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Fractal Dimension and the Cantor Set</title>
+				<title>Why do We Trust X-ray Crystallography?</title>
 				<feature>General Article</feature>
-				<page>1000-1004</page>
+				<page>1087-1092</page>
 				<allauthors>
-					<author isfellow="0" lname="Shirali" fname="Shailesh A.">Shirali, Shailesh A.</author>
+					<author isfellow="0" lname="Bond" fname="Andrew D.">Bond, Andrew D.</author>
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>Biofilms: Community Behavior by Bacteria</title>
+				<title>Crystallography and Drug Design</title>
 				<feature>General Article</feature>
-				<page>1005-1016</page>
+				<page>1093-1103</page>
 				<allauthors>
-					<author isfellow="0" lname="Chakravortty" fname="Dipshikha">Chakravortty, Dipshikha</author>
+					<author isfellow="0" lname="Suguna" fname="K.">Suguna, K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Frustrated Lewis Pairs : Enabling via inability</title>
+				<title>The Art of in situ Cryocrystallization</title>
 				<feature>General Article</feature>
-				<page>1017-1027</page>
+				<page>1104-1114</page>
 				<allauthors>
-					<author isfellow="0" lname="Mukherjee" fname="Sanjoy">Mukherjee, Sanjoy</author>
-                    <author isfellow="0" lname="Thilagar" fname="Pakkirisamy">Thilagar, Pakkirisamy</author>
+					<author isfellow="0" lname="Dey" fname="Dhananjay">Dey, Dhananjay</author>
+					<author isfellow="0" lname="Chopra" fname="Deepak">Chopra, Deepak</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Goldbach Partitions and Sequences</title>
+				<title>The World Behind the Word 'Structure': In Crystallography, Chemistry and Elsewhere</title>
 				<feature>General Article</feature>
-				<page>1028-1037</page>
+				<page>1115-1129</page>
 				<allauthors>
-					<author isfellow="0" lname="Kak" fname="Subhash">Kak, Subhash</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>Some Remarks on Iterated Maps of Natural Numbers</title>
-				<feature>Gemeral Article</feature>
-				<page>1038-1046</page>
-				<allauthors>
-					<author isfellow="0" lname="Herzberg" fname="Agnes M.">Herzberg, Agnes M.</author>
-					<author isfellow="0" lname="Murty" fname="M. Ram">Murty, M. Ram</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>Finite Amplitude Ocean Waves : Waves with Peaked Crests and Broad Troughs</title>
-				<feature>General Article</feature>
-				<page>1047-1057</page>
-				<allauthors>
-					<author isfellow="0" lname="Varma" fname="K. K.">Varma, K. K.</author>	
-				</allauthors>
-			</entry>
-			<entry>
-				<title>From Adiabatic Invariance to Wien's Displacement Law</title>
-				<feature>Classroom</feature>
-				<page>1058-1060</page>
-				<allauthors>
-					<author isfellow="0" lname="Jain" fname="Sudhir R.">Jain, Sudhir R.</author>
-					<author isfellow="0" lname="Jain" fname="Manan">Jain, Manan</author>		
+					<author isfellow="0" lname="Venugopalan" fname="P.">Venugopalan, P.</author>
 				</allauthors>
 			</entry>			
 			<entry>
-				<title>Think It Over</title>
-				<feature>Think It Over</feature>
-				<page>1061-1061</page>
+				<title>Modern Piezoelectrics: Structural and Microstructural Aspects</title>
+				<feature>General Article</feature>
+				<page>1130-1146</page>
 				<allauthors>
-					<author isfellow="0" lname="Bhanu" fname="K. S.">Bhanu, K. S.</author>
-					<author isfellow="0" lname="Deshpande" fname="M. N.">Deshpande, M. N.</author>		
-				</allauthors>	
+					<author isfellow="0" lname="Ranjan" fname="Rajeev">Ranjan, Rajeev</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Our Readers Write...</title>
-				<feature>Our Readers Write</feature>
-				<page>1062-1065</page>
+				<title>Metal Organic Framework: Crystalline Stacked Molecular Containers</title>
+				<feature>Gemeral Article</feature>
+				<page>1147-1157</page>
 				<allauthors>
-				</allauthors>	
+					<author isfellow="0" lname="Vaidhyanathan" fname="Ramanathan">Vaidhyanathan, Ramanathan</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Nobel Prize 2014</title>
+				<title>Grazing Incidence X-ray Scattering and Diffraction</title>
+				<feature>General Article</feature>
+				<page>1158-1176</page>
+				<allauthors>
+					<author isfellow="0" lname="Basu" fname="Jaydeep K.">Basu, Jaydeep K.</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Crystallography Beyond Crystals: PX and SPCryoEM</title>
+				<feature>General Article</feature>
+				<page>1177-1196</page>
+				<allauthors>
+					<author isfellow="0" lname="Natesh" fname="Ramanathan">Natesh, Ramanathan</author>		
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Experimental Physics</title>					
 				<feature>Information and Announcements</feature>
-				<page>1066-1066</page>
-				<allauthors>
-				</allauthors>	
+				<page>1197-1197</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Fourth Refresher Course in Materials Preparation and Measurement of Properties</title>
+				<feature>Information and Announcements</feature>
+				<page>1198-1198</page>
+				<allauthors/>
 			</entry>
 			<entry>
-				<title>SynGrant</title>
+				<title>Summer Research Fellowship Programme - 2015</title>
 				<feature>Information and Announcements</feature>
-				<page>1067-1067</page>
-				<allauthors>
-				</allauthors>	
-			</entry>								
+				<page>1199-1199</page>
+				<allauthors/>
+			</entry>
 			<entry>
 				<title>Order Form</title>
 				<feature>Order Form</feature>
-				<page>1068-1068</page>
+				<page>1200-1200</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Canthium dicoccum (Gaertn.)</title>
+				<title>Index 2014</title>
+				<feature></feature>
+				<page>1201-1208</page>
+				<allauthors/>
+			</entry>		
+			<entry>
+				<title>Diospyros melanoxylon</title>
 				<feature>Flowering Trees</feature>
-				<page>1069-1069</page>
+				<page>1209-1209</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Georg Cantor</title>
+				<title>William Henry Bragg (1862-1942) William Lawrence Bragg (1890-1971)</title>
 				<feature>Featured Scientist</feature>
-				<page>1070-1070</page>
+				<page>1210-1210</page>
 				<allauthors/>
 			</entry>
 		</issue>

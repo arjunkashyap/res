@@ -101,7 +101,6 @@ $title_cv_display = preg_replace("/\<\/sub\>/", "", $title_cv_display);
 			<div class="ci_column1">
 				<?php print_widget("General Article", 1); ?>
 				<?php print_widget("Series Article", 1); ?>
-				<?php print_widget("Information and Announcements", 1); ?>
 			</div>
 			<div class="ci_column2">
 				<?php print_widget("General Editorial", 1); ?>
@@ -116,6 +115,7 @@ $title_cv_display = preg_replace("/\<\/sub\>/", "", $title_cv_display);
 				<?php print_widget("Our Readers Write", 1); ?>
                 <?php print_widget("Feature Article", 1); ?>
 				<?php print_widget("Reflections", 1); ?>
+				<?php print_widget("Information and Announcements", 1); ?>
 			</div>
 <?php
 echo "
@@ -175,7 +175,9 @@ $text_bcv=$row_aux5['text'];
 			echo "
 			<div class=\"pi_holder\">
 				<a href=\"php/images/back_full_size.png\" target=\"_blank\" title=\"Click to expand\"><img src=\"php/images/p_image.png\" alt=\"Back Cover\" /></a>
-				<br /><span class=\"p_issue\">$title_bcv<br />($text_bcv)</span><br /><div class=\"trule\">&nbsp;</div>
+				<br /><span class=\"p_issue\">$title_bcv";
+                echo ($text_bcv == '') ? "" : "<br />($text_bcv)";
+                echo "</span><br /><div class=\"trule\">&nbsp;</div>
 				<span class=\"p_archive\"><a href=\"php/volumes.php\">ARCHIVE</a></span>
 			</div>";
 ?>

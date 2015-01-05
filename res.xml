@@ -28395,6 +28395,154 @@
 				<page>1070-1070</page>
 				<allauthors/>
 			</entry>
-		</issue>        
+		</issue>
+		<issue inum="12" month="12" year="2014">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>1069-1070</page>
+				<allauthors>
+					<author isfellow="1" lname="Row" fname="T. N. Guru">Row, T. N. Guru</author>
+					<author isfellow="0" lname="Choudhury" fname="Angshuman Roy">Choudhury, Angshuman Roy</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Beginnings of X-ray Crystallography: A Profile on the Two Braggs</title>
+				<feature>Article-in-a-Box</feature>
+				<page>1071-1073</page>
+				<allauthors>
+					<author isfellow="1" lname="Row" fname="T. N. Guru">Row, T. N. Guru</author>
+				</allauthors>
+			</entry>
+            <entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>1074-1075</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>1076-1076</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Early Developments in Crystallography</title>
+				<feature>General Article</feature>
+				<page>1077-1086</page>
+				<allauthors>
+					<author isfellow="0" lname="Mande" fname="Shekhar">Mande, Shekhar</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Why do We Trust X-ray Crystallography?</title>
+				<feature>General Article</feature>
+				<page>1087-1092</page>
+				<allauthors>
+					<author isfellow="0" lname="Bond" fname="Andrew D.">Bond, Andrew D.</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Crystallography and Drug Design</title>
+				<feature>General Article</feature>
+				<page>1093-1103</page>
+				<allauthors>
+					<author isfellow="0" lname="Suguna" fname="K.">Suguna, K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Art of in situ Cryocrystallization</title>
+				<feature>General Article</feature>
+				<page>1104-1114</page>
+				<allauthors>
+					<author isfellow="0" lname="Dey" fname="Dhananjay">Dey, Dhananjay</author>
+					<author isfellow="0" lname="Chopra" fname="Deepak">Chopra, Deepak</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The World Behind the Word 'Structure': In Crystallography, Chemistry and Elsewhere</title>
+				<feature>General Article</feature>
+				<page>1115-1129</page>
+				<allauthors>
+					<author isfellow="0" lname="Venugopalan" fname="P.">Venugopalan, P.</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Modern Piezoelectrics: Structural and Microstructural Aspects</title>
+				<feature>General Article</feature>
+				<page>1130-1146</page>
+				<allauthors>
+					<author isfellow="0" lname="Ranjan" fname="Rajeev">Ranjan, Rajeev</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Metal Organic Framework: Crystalline Stacked Molecular Containers</title>
+				<feature>Gemeral Article</feature>
+				<page>1147-1157</page>
+				<allauthors>
+					<author isfellow="0" lname="Vaidhyanathan" fname="Ramanathan">Vaidhyanathan, Ramanathan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Grazing Incidence X-ray Scattering and Diffraction</title>
+				<feature>General Article</feature>
+				<page>1158-1176</page>
+				<allauthors>
+					<author isfellow="0" lname="Basu" fname="Jaydeep K.">Basu, Jaydeep K.</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Crystallography Beyond Crystals: PX and SPCryoEM</title>
+				<feature>General Article</feature>
+				<page>1177-1196</page>
+				<allauthors>
+					<author isfellow="0" lname="Natesh" fname="Ramanathan">Natesh, Ramanathan</author>		
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Experimental Physics</title>					
+				<feature>Information and Announcements</feature>
+				<page>1197-1197</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Fourth Refresher Course in Materials Preparation and Measurement of Properties</title>
+				<feature>Information and Announcements</feature>
+				<page>1198-1198</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Summer Research Fellowship Programme - 2015</title>
+				<feature>Information and Announcements</feature>
+				<page>1199-1199</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Order Form</title>
+				<feature>Order Form</feature>
+				<page>1200-1200</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Index 2014</title>
+				<feature></feature>
+				<page>1201-1208</page>
+				<allauthors/>
+			</entry>		
+			<entry>
+				<title>Diospyros melanoxylon</title>
+				<feature>Flowering Trees</feature>
+				<page>1209-1209</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>William Henry Bragg (1862-1942) William Lawrence Bragg (1890-1971)</title>
+				<feature>Featured Scientist</feature>
+				<page>1210-1210</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>
