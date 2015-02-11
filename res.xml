@@ -28545,4 +28545,117 @@
 			</entry>
 		</issue>
 	</volume>
+	<volume vnum="20">
+		<issue inum="01" month="01" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0001-0002</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0003-0003</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+            <entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0004-0005</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Asima Chatterjee: A Unique Natural Products Chemist</title>
+				<feature>General Article</feature>
+				<page>0006-0022</page>
+				<allauthors>
+					<author isfellow="0" lname="De" fname="Asish">De, Asish</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Odd if it isn't an Even Fit!</title>
+				<feature>General Article</feature>
+				<page>0023-0033</page>
+				<allauthors>
+					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Noisy Neurons: Hodgkin-Huxley Model and Stochastic Variants</title>
+				<feature>General Article</feature>
+				<page>0034-0043</page>
+				<allauthors>
+					<author isfellow="0" lname="Paranjape" fname="Shruti">Paranjape, Shurti</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Identical Distinguishable Gas Particles in the Real World</title>
+				<feature>General Article</feature>
+				<page>0044-0046</page>
+				<allauthors>
+					<author isfellow="0" lname="Mungan" fname="Carl E.">Mungan, Carl E.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Nature Watch: A Tale of Two Turtles</title>
+				<feature>Feature Article</feature>
+				<page>0047-0054</page>
+				<allauthors>
+					<author isfellow="0" lname="Deepak" fname="V.">Deepak, V.</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Hard Sphere Simulator: Visualization and Modelling of Atomic Structures</title>
+				<feature>Classroom</feature>
+				<page>0055-0072</page>
+				<allauthors>
+					<author isfellow="0" lname="Geeta" fname="M">Geeta, M.</author>
+					<author isfellow="0" lname="Sharma" fname="Shruti">Sharma, Shruti</author>
+					<author isfellow="0" lname="Panwar" fname="A. S.">Panwar, A. S.</author>
+					<author isfellow="0" lname="Gururajan" fname="M. P.">Gururajan, M. P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Importance of Asking Questions - in Different Ways!</title>
+				<feature>Classroom</feature>
+				<page>0073-0075</page>
+				<allauthors>
+					<author isfellow="1" lname="Maitra" fname="Uday">Maitra, Uday</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Short Proof of Euler's Inequality</title>
+				<feature>Filler</feature>
+				<page>0075-0075</page>
+				<allauthors>
+					<author isfellow="0" lname="Seraj" fname="Samer">Seraj, Samer</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Information and the Accuracy Attainable in the Estimation of Statistical Parameters</title>
+				<feature>Classics</feature>
+				<page>0076-0090</page>
+				<allauthors>
+					<author isfellow="0" lname="Rao" fname="C. Radhakrishna">Rao, C. Radhakrishna</author>		
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Erythrina indica</title>
+				<feature>Flowering Trees</feature>
+				<page>0091-0091</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Asima Chatterjee (1917-2006)</title>
+				<feature>Featured Scientist</feature>
+				<page>0092-0092</page>
+				<allauthors/>
+			</entry>
+		</issue>
+	</volume>
 </res>

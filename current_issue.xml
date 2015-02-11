@@ -1,71 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="19" inum="12" month="12" year="2014">
+<current_issue vnum="20" inum="01" month="01" year="2015">
 	<feature_article>
 		<entry>
-			<title>Early Developments in Crystallography</title>
+			<title>A Tale of Two Turles</title>
 			<text></text>
-			<page>1077-1086</page>
+			<page>0047-0054</page>
 		</entry>
 		<entry>
-			<title>Crystallography Beyond Crystals</title>
+			<title>Noisy Neurons</title>
 			<text></text>
-			<page>1177-1196</page>
+			<page>0034-0043</page>
 		</entry>
 		<entry>
-			<title>Metal Organic Framework</title>
+			<title>Asima Chatterjee: A Unique Natural Products Chemist</title>
 			<text></text>
-			<page>1147-1157</page>
+			<page>0006-0022</page>
 		</entry>
 		<entry>
-			<title>The World behind the Word 'Structure'</title>
+			<title>Hard Sphere Simulator</title>
 			<text></text>
-			<page>1115-1129</page>
+			<page>0055-0072</page>
 			</entry>
 		<entry>
-			<title>The Art of in situ Cryocrystallization</title>
+			<title>Lighter Side of Tiling</title>
 			<text></text>
-			<page>1104-1114</page>
+			<page>0023-0033</page>
 		</entry>
 		<entry>
-			<title>Modern Piezoelectrics</title>
+			<title>Identical Distinguishable Gas Particles</title>
 			<text></text>
-			<page>1130-1146</page>
+			<page>0044-0046</page>
 		</entry>
 		<entry>
-			<title>Crystallography and Drug Design</title>
+			<title>Importance of Asking Questions</title>
 			<text></text>
-			<page>1093-1103</page>
+			<page>0073-0075</page>
 		</entry>
-		<entry>
-			<title>Why do We Trust X-ray Crystallography?</title>
-			<text></text>
-			<page>1087-1092</page>
-		</entry>
-		<entry>
-			<title>Grazing Incidence X-ray Scattering and Diffraction</title>
-			<text></text>
-			<page>1158-1176</page>
-		</entry>							
-	</feature_article>	
-	<editorial>
+		</feature_article>			
 		<entry>
 			<title>Editorial</title>
-			<author>T. N. Guru Row and Angshuman Roy Choudhury</author>
+			<author>Rajaram Nityananda</author>
 			<text></text>
-			<page>1069-1070</page>
+			<page>0001-0002</page>
 		</entry>
-	</editorial>
 	<cover>
 		<entry>
-			<title>Stamp issued by the Department of Posts, India to commemorate International Year of Crystallography 2014 (IYCr).</title>
+			<title>Travancore tortoise, Anamalai Tiger Reserve (See article on page 47.)</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Sir William Henry Bragg<br />(1862&#8211;1942) and<br />William Lawrence Bragg<br />(1890&#8211;1971)</title>
-            <text></text>
+			<title>Asima Chatterjee(1917&#8211;2006)</title>
 		</entry>
 	</bcover>
 </current_issue>

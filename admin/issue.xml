@@ -2,152 +2,115 @@
 <!DOCTYPE res SYSTEM "res.dtd">
 
 <res>
-	<volume vnum="19">
-		<issue inum="12" month="12" year="2014">
+	<volume vnum="20">
+		<issue inum="01" month="01" year="2015">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>1069-1070</page>
+				<page>0001-0002</page>
 				<allauthors>
-					<author isfellow="1" lname="Row" fname="T. N. Guru">Row, T. N. Guru</author>
-					<author isfellow="0" lname="Choudhury" fname="Angshuman Roy">Choudhury, Angshuman Roy</author>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Beginnings of X-ray Crystallography: A Profile on the Two Braggs</title>
-				<feature>Article-in-a-Box</feature>
-				<page>1071-1073</page>
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0003-0003</page>
 				<allauthors>
-					<author isfellow="1" lname="Row" fname="T. N. Guru">Row, T. N. Guru</author>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
 				</allauthors>
 			</entry>
             <entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>1074-1075</page>
+				<page>0004-0005</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Science Smiles</title>
-				<feature>Science Smiles</feature>
-				<page>1076-1076</page>
+				<title>Asima Chatterjee: A Unique Natural Products Chemist</title>
+				<feature>General Article</feature>
+				<page>0006-0022</page>
 				<allauthors>
-					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+					<author isfellow="0" lname="De" fname="Asish">De, Asish</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Early Developments in Crystallography</title>
+				<title>Odd if it isn't an Even Fit!</title>
 				<feature>General Article</feature>
-				<page>1077-1086</page>
+				<page>0023-0033</page>
 				<allauthors>
-					<author isfellow="0" lname="Mande" fname="Shekhar">Mande, Shekhar</author>
-				</allauthors>
-			</entry>
-			<entry>
-				<title>Why do We Trust X-ray Crystallography?</title>
-				<feature>General Article</feature>
-				<page>1087-1092</page>
-				<allauthors>
-					<author isfellow="0" lname="Bond" fname="Andrew D.">Bond, Andrew D.</author>
+					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>Crystallography and Drug Design</title>
+				<title>Noisy Neurons: Hodgkin-Huxley Model and Stochastic Variants</title>
 				<feature>General Article</feature>
-				<page>1093-1103</page>
+				<page>0034-0043</page>
 				<allauthors>
-					<author isfellow="0" lname="Suguna" fname="K.">Suguna, K.</author>
+					<author isfellow="0" lname="Paranjape" fname="Shruti">Paranjape, Shurti</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Art of in situ Cryocrystallization</title>
+				<title>Identical Distinguishable Gas Particles in the Real World</title>
 				<feature>General Article</feature>
-				<page>1104-1114</page>
+				<page>0044-0046</page>
 				<allauthors>
-					<author isfellow="0" lname="Dey" fname="Dhananjay">Dey, Dhananjay</author>
-					<author isfellow="0" lname="Chopra" fname="Deepak">Chopra, Deepak</author>
+					<author isfellow="0" lname="Mungan" fname="Carl E.">Mungan, Carl E.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The World Behind the Word 'Structure': In Crystallography, Chemistry and Elsewhere</title>
-				<feature>General Article</feature>
-				<page>1115-1129</page>
+				<title>Nature Watch: A Tale of Two Turtles</title>
+				<feature>Feature Article</feature>
+				<page>0047-0054</page>
 				<allauthors>
-					<author isfellow="0" lname="Venugopalan" fname="P.">Venugopalan, P.</author>
+					<author isfellow="0" lname="Deepak" fname="V.">Deepak, V.</author>
 				</allauthors>
 			</entry>			
 			<entry>
-				<title>Modern Piezoelectrics: Structural and Microstructural Aspects</title>
-				<feature>General Article</feature>
-				<page>1130-1146</page>
+				<title>Hard Sphere Simulator: Visualization and Modelling of Atomic Structures</title>
+				<feature>Classroom</feature>
+				<page>0055-0072</page>
 				<allauthors>
-					<author isfellow="0" lname="Ranjan" fname="Rajeev">Ranjan, Rajeev</author>
+					<author isfellow="0" lname="Geeta" fname="M">Geeta, M.</author>
+					<author isfellow="0" lname="Sharma" fname="Shruti">Sharma, Shruti</author>
+					<author isfellow="0" lname="Panwar" fname="A. S.">Panwar, A. S.</author>
+					<author isfellow="0" lname="Gururajan" fname="M. P.">Gururajan, M. P.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Metal Organic Framework: Crystalline Stacked Molecular Containers</title>
-				<feature>Gemeral Article</feature>
-				<page>1147-1157</page>
+				<title>The Importance of Asking Questions - in Different Ways!</title>
+				<feature>Classroom</feature>
+				<page>0073-0075</page>
 				<allauthors>
-					<author isfellow="0" lname="Vaidhyanathan" fname="Ramanathan">Vaidhyanathan, Ramanathan</author>
+					<author isfellow="1" lname="Maitra" fname="Uday">Maitra, Uday</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Grazing Incidence X-ray Scattering and Diffraction</title>
-				<feature>General Article</feature>
-				<page>1158-1176</page>
+				<title>A Short Proof of Euler's Inequality</title>
+				<feature>Filler</feature>
+				<page>0075-0075</page>
 				<allauthors>
-					<author isfellow="0" lname="Basu" fname="Jaydeep K.">Basu, Jaydeep K.</author>	
+					<author isfellow="0" lname="Seraj" fname="Samer">Seraj, Samer</author>	
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Crystallography Beyond Crystals: PX and SPCryoEM</title>
-				<feature>General Article</feature>
-				<page>1177-1196</page>
+				<title>Information and the Accuracy Attainable in the Estimation of Statistical Parameters</title>
+				<feature>Classics</feature>
+				<page>0076-0090</page>
 				<allauthors>
-					<author isfellow="0" lname="Natesh" fname="Ramanathan">Natesh, Ramanathan</author>		
+					<author isfellow="0" lname="Rao" fname="C. Radhakrishna">Rao, C. Radhakrishna</author>		
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Science Academies' Refresher Course in Experimental Physics</title>					
-				<feature>Information and Announcements</feature>
-				<page>1197-1197</page>
-				<allauthors/>
-			</entry>			
-			<entry>
-				<title>Fourth Refresher Course in Materials Preparation and Measurement of Properties</title>
-				<feature>Information and Announcements</feature>
-				<page>1198-1198</page>
-				<allauthors/>
-			</entry>
-			<entry>
-				<title>Summer Research Fellowship Programme - 2015</title>
-				<feature>Information and Announcements</feature>
-				<page>1199-1199</page>
-				<allauthors/>
-			</entry>
-			<entry>
-				<title>Order Form</title>
-				<feature>Order Form</feature>
-				<page>1200-1200</page>
-				<allauthors/>
-			</entry>
-			<entry>
-				<title>Index 2014</title>
-				<feature></feature>
-				<page>1201-1208</page>
-				<allauthors/>
-			</entry>		
-			<entry>
-				<title>Diospyros melanoxylon</title>
+				<title>Erythrina indica</title>
 				<feature>Flowering Trees</feature>
-				<page>1209-1209</page>
+				<page>0091-0091</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>William Henry Bragg (1862-1942) William Lawrence Bragg (1890-1971)</title>
+				<title>Asima Chatterjee (1917-2006)</title>
 				<feature>Featured Scientist</feature>
-				<page>1210-1210</page>
+				<page>0092-0092</page>
 				<allauthors/>
 			</entry>
 		</issue>
