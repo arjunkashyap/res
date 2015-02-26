@@ -3,114 +3,121 @@
 
 <res>
 	<volume vnum="20">
-		<issue inum="01" month="01" year="2015">
+		<issue inum="02" month="02" year="2015">
+			<entry>
+				<title>General Editorial on Publication Ethics</title>
+				<feature>General Editorial</feature>
+				<page>0091-0092</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Academy Policy on Plagiarism</title>
+				<feature></feature>
+				<page>0093-0093</page>
+				<allauthors/>
+			</entry>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0094-0094</page>
+				<allauthors>
+				<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0001-0002</page>
+				<page>0095-0095</page>
 				<allauthors>
-					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+				<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Science Smiles</title>
-				<feature>Science Smiles</feature>
-				<page>0003-0003</page>
-				<allauthors>
-					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
-				</allauthors>
-			</entry>
-            <entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>0004-0005</page>
+				<page>0096-0097</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Asima Chatterjee: A Unique Natural Products Chemist</title>
+				<title>Buckminster Fuller and his Fabulous Designs</title>
 				<feature>General Article</feature>
-				<page>0006-0022</page>
+				<page>0098-0122</page>
 				<allauthors>
-					<author isfellow="0" lname="De" fname="Asish">De, Asish</author>
+				<author isfellow="0" lname="Ananthasuresh" fname="G. K.">Ananthasuresh, G. K.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Odd if it isn't an Even Fit!</title>
+				<title>Fullerenes Revisited: Materials Chemistry and Applications of C60 Molecules</title>
 				<feature>General Article</feature>
-				<page>0023-0033</page>
+				<page>0123-0135</page>
 				<allauthors>
-					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>
+					<author isfellow="0" lname="Shanbogh" fname="Pradeep P.">Shanbogh, Pradeep P.</author>
+					<author isfellow="0" lname="Sundaram" fname="Nalini G.">Sundaram, Nalini G.</author>
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>Noisy Neurons: Hodgkin-Huxley Model and Stochastic Variants</title>
+				<title>Realm of Matrices : Exponential and Logarithm Functions</title>
 				<feature>General Article</feature>
-				<page>0034-0043</page>
+				<page>0136-0150</page>
 				<allauthors>
-					<author isfellow="0" lname="Paranjape" fname="Shruti">Paranjape, Shurti</author>
+					<author isfellow="0" lname="Biswas" fname="Debapriya">Biswas, Debapriya</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Identical Distinguishable Gas Particles in the Real World</title>
+				<title>Single-Molecule Spectroscopy: Every Molecule is Different!</title>
 				<feature>General Article</feature>
-				<page>0044-0046</page>
+				<page>0151-0164</page>
 				<allauthors>
-					<author isfellow="0" lname="Mungan" fname="Carl E.">Mungan, Carl E.</author>
+					<author isfellow="0" lname="Bhattacharyya" fname="Kankan">Bhattacharyya, Kankan</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Nature Watch: A Tale of Two Turtles</title>
-				<feature>Feature Article</feature>
-				<page>0047-0054</page>
+				<title>Chemistry Utilisation of CO2: A Challenge for the Sustainable World</title>
+				<feature>General Article</feature>
+				<page>0165-0176</page>
 				<allauthors>
-					<author isfellow="0" lname="Deepak" fname="V.">Deepak, V.</author>
+					<author isfellow="0" lname="Jagadeesan" fname="Dinesh">Jagadeesan, Dinesh</author>
+					<author isfellow="0" lname="Joshi" fname="Bhaskar">Joshi, Bhaskar</author>
+					<author isfellow="0" lname="Parameswaran" fname="Prashant">Parameswaran, Prashant</author>		
 				</allauthors>
 			</entry>			
 			<entry>
-				<title>Hard Sphere Simulator: Visualization and Modelling of Atomic Structures</title>
+				<title>Rediscovering Genetics with Drosophila</title>
 				<feature>Classroom</feature>
-				<page>0055-0072</page>
+				<page>0177-0183</page>
 				<allauthors>
-					<author isfellow="0" lname="Geeta" fname="M">Geeta, M.</author>
-					<author isfellow="0" lname="Sharma" fname="Shruti">Sharma, Shruti</author>
-					<author isfellow="0" lname="Panwar" fname="A. S.">Panwar, A. S.</author>
-					<author isfellow="0" lname="Gururajan" fname="M. P.">Gururajan, M. P.</author>
+					<author isfellow="0" lname="Dhamija" fname="Neeru">Dhamija, Neeru</author>
+					<author isfellow="0" lname="Joshi" fname="Sunita">Joshi, Sunita</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Importance of Asking Questions - in Different Ways!</title>
-				<feature>Classroom</feature>
-				<page>0073-0075</page>
-				<allauthors>
-					<author isfellow="1" lname="Maitra" fname="Uday">Maitra, Uday</author>
-				</allauthors>
+				<title>Sciencce Academies' Seventieth Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0184-0184</page>
+			<allauthors/>
 			</entry>
 			<entry>
-				<title>A Short Proof of Euler's Inequality</title>
-				<feature>Filler</feature>
-				<page>0075-0075</page>
-				<allauthors>
-					<author isfellow="0" lname="Seraj" fname="Samer">Seraj, Samer</author>	
-				</allauthors>
-			</entry>
-			<entry>
-				<title>Information and the Accuracy Attainable in the Estimation of Statistical Parameters</title>
-				<feature>Classics</feature>
-				<page>0076-0090</page>
-				<allauthors>
-					<author isfellow="0" lname="Rao" fname="C. Radhakrishna">Rao, C. Radhakrishna</author>		
-				</allauthors>
-			</entry>
-			<entry>
-				<title>Erythrina indica</title>
-				<feature>Flowering Trees</feature>
-				<page>0091-0091</page>
+				<title>Science Academies' Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0185-0185</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Asima Chatterjee (1917-2006)</title>
+				<title>Indian Institute of Science - Undergraduate Programme Admissions for 2015</title>
+				<feature>Information and Announcements</feature>
+				<page>0186-0186</page>
+				<allauthors/>
+			</entry>									
+			<entry>
+				<title>Excoecaria crenulata</title>
+				<feature>Flowering Trees</feature>
+				<page>0187-0187</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Richard Buckminster Fuller</title>
 				<feature>Featured Scientist</feature>
-				<page>0092-0092</page>
+				<page>0188-0188</page>
 				<allauthors/>
 			</entry>
 		</issue>

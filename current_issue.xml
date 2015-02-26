@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="20" inum="01" month="01" year="2015">
+<current_issue vnum="20" inum="02" month="02" year="2015">
 	<feature_article>
 		<entry>
-			<title>A Tale of Two Turles</title>
+			<title>Single Molecule Spectroscopy</title>
 			<text></text>
-			<page>0047-0054</page>
+			<page>0151-0164</page>
 		</entry>
 		<entry>
-			<title>Noisy Neurons</title>
+			<title>Buckminster Fuller and his Fabulous Designs</title>
 			<text></text>
-			<page>0034-0043</page>
+			<page>0098-0122</page>
 		</entry>
 		<entry>
-			<title>Asima Chatterjee: A Unique Natural Products Chemist</title>
+			<title>Fullerenes Revisited</title>
 			<text></text>
-			<page>0006-0022</page>
+			<page>0123-0135</page>
 		</entry>
 		<entry>
-			<title>Hard Sphere Simulator</title>
+			<title>Realm of Matrices</title>
 			<text></text>
-			<page>0055-0072</page>
+			<page>0136-0150</page>
 			</entry>
 		<entry>
-			<title>Lighter Side of Tiling</title>
+			<title>Single Molecule Spectroscopy: Every Molecule is Different!</title>
 			<text></text>
-			<page>0023-0033</page>
+			<page>0151-0164</page>
 		</entry>
 		<entry>
-			<title>Identical Distinguishable Gas Particles</title>
+			<title>Chemical Utilisation of CO2</title>
 			<text></text>
-			<page>0044-0046</page>
+			<page>0165-0176</page>
 		</entry>
 		<entry>
-			<title>Importance of Asking Questions</title>
+			<title>Rediscovering Genetics with Drosophila</title>
 			<text></text>
-			<page>0073-0075</page>
+			<page>0177-0183</page>
 		</entry>
 		</feature_article>			
 		<entry>
 			<title>Editorial</title>
 			<author>Rajaram Nityananda</author>
 			<text></text>
-			<page>0001-0002</page>
+			<page>0095-0095</page>
 		</entry>
 	<cover>
 		<entry>
-			<title>Travancore tortoise, Anamalai Tiger Reserve (See article on page 47.)</title>
+			<title>Buckminster Fuller's Designs (See article on page 98.)</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Asima Chatterjee(1917&#8211;2006)</title>
+			<title>Richard Buckminster Fuller(1895&#8211;1983)</title>
 		</entry>
 	</bcover>
 </current_issue>

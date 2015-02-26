@@ -28657,5 +28657,123 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="02" month="02" year="2015">
+			<entry>
+				<title>General Editorial on Publication Ethics</title>
+				<feature>General Editorial</feature>
+				<page>0091-0092</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Academy Policy on Plagiarism</title>
+				<feature></feature>
+				<page>0093-0093</page>
+				<allauthors/>
+			</entry>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0094-0094</page>
+				<allauthors>
+				<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0095-0095</page>
+				<allauthors>
+				<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0096-0097</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Buckminster Fuller and his Fabulous Designs</title>
+				<feature>General Article</feature>
+				<page>0098-0122</page>
+				<allauthors>
+				<author isfellow="0" lname="Ananthasuresh" fname="G. K.">Ananthasuresh, G. K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Fullerenes Revisited: Materials Chemistry and Applications of C60 Molecules</title>
+				<feature>General Article</feature>
+				<page>0123-0135</page>
+				<allauthors>
+					<author isfellow="0" lname="Shanbogh" fname="Pradeep P.">Shanbogh, Pradeep P.</author>
+					<author isfellow="0" lname="Sundaram" fname="Nalini G.">Sundaram, Nalini G.</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Realm of Matrices : Exponential and Logarithm Functions</title>
+				<feature>General Article</feature>
+				<page>0136-0150</page>
+				<allauthors>
+					<author isfellow="0" lname="Biswas" fname="Debapriya">Biswas, Debapriya</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Single-Molecule Spectroscopy: Every Molecule is Different!</title>
+				<feature>General Article</feature>
+				<page>0151-0164</page>
+				<allauthors>
+					<author isfellow="0" lname="Bhattacharyya" fname="Kankan">Bhattacharyya, Kankan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Chemistry Utilisation of CO2: A Challenge for the Sustainable World</title>
+				<feature>General Article</feature>
+				<page>0165-0176</page>
+				<allauthors>
+					<author isfellow="0" lname="Jagadeesan" fname="Dinesh">Jagadeesan, Dinesh</author>
+					<author isfellow="0" lname="Joshi" fname="Bhaskar">Joshi, Bhaskar</author>
+					<author isfellow="0" lname="Parameswaran" fname="Prashant">Parameswaran, Prashant</author>		
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Rediscovering Genetics with Drosophila</title>
+				<feature>Classroom</feature>
+				<page>0177-0183</page>
+				<allauthors>
+					<author isfellow="0" lname="Dhamija" fname="Neeru">Dhamija, Neeru</author>
+					<author isfellow="0" lname="Joshi" fname="Sunita">Joshi, Sunita</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sciencce Academies' Seventieth Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0184-0184</page>
+			<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0185-0185</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Indian Institute of Science - Undergraduate Programme Admissions for 2015</title>
+				<feature>Information and Announcements</feature>
+				<page>0186-0186</page>
+				<allauthors/>
+			</entry>									
+			<entry>
+				<title>Excoecaria crenulata</title>
+				<feature>Flowering Trees</feature>
+				<page>0187-0187</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Richard Buckminster Fuller</title>
+				<feature>Featured Scientist</feature>
+				<page>0188-0188</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>
