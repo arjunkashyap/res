@@ -3,123 +3,138 @@
 
 <res>
 	<volume vnum="20">
-		<issue inum="02" month="02" year="2015">
-			<entry>
-				<title>General Editorial on Publication Ethics</title>
-				<feature>General Editorial</feature>
-				<page>0091-0092</page>
-				<allauthors/>
-			</entry>
-			<entry>
-				<title>Academy Policy on Plagiarism</title>
-				<feature></feature>
-				<page>0093-0093</page>
-				<allauthors/>
-			</entry>
-			<entry>			
-				<title>Science Smiles</title>
-				<feature>Science Smiles</feature>
-				<page>0094-0094</page>
-				<allauthors>
-				<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
-				</allauthors>
-			</entry>		
+		<issue inum="03" month="03" year="2015">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0095-0095</page>
+				<page>0187-0187</page>
 				<allauthors>
-				<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>0096-0097</page>
+				<page>0188-0189</page>
 				<allauthors/>
 			</entry>
-			<entry>
-				<title>Buckminster Fuller and his Fabulous Designs</title>
-				<feature>General Article</feature>
-				<page>0098-0122</page>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0190-0190</page>
 				<allauthors>
-				<author isfellow="0" lname="Ananthasuresh" fname="G. K.">Ananthasuresh, G. K.</author>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>Edwawrd Norton Lorenz: Discoverer of Chaos</title>
+				<feature>General Article</feature>
+				<page>0191-0197</page>
+				<allauthors>
+					<author isfellow="0" lname="Krishnamurthy" fname="V.">Krishnamurthy, V.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Fullerenes Revisited: Materials Chemistry and Applications of C60 Molecules</title>
+				<title>Ed Lorenz: Father of the 'Butterfly Effect'</title>
 				<feature>General Article</feature>
-				<page>0123-0135</page>
+				<page>0198-0205</page>
 				<allauthors>
-					<author isfellow="0" lname="Shanbogh" fname="Pradeep P.">Shanbogh, Pradeep P.</author>
-					<author isfellow="0" lname="Sundaram" fname="Nalini G.">Sundaram, Nalini G.</author>
+					<author isfellow="0" lname="Ambika" fname="G.">Ambika, G.</author>
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>Realm of Matrices : Exponential and Logarithm Functions</title>
+				<title>Multivariable Chinese Remainder Theorem</title>
 				<feature>General Article</feature>
-				<page>0136-0150</page>
+				<page>0206-0216</page>
 				<allauthors>
-					<author isfellow="0" lname="Biswas" fname="Debapriya">Biswas, Debapriya</author>
+					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Single-Molecule Spectroscopy: Every Molecule is Different!</title>
+				<title>C-II Acid and the Stereochemistry of Abietic Acid</title>
 				<feature>General Article</feature>
-				<page>0151-0164</page>
+				<page>0217-0234</page>
 				<allauthors>
-					<author isfellow="0" lname="Bhattacharyya" fname="Kankan">Bhattacharyya, Kankan</author>
+					<author isfellow="0" lname="Balasubrahmanyam" fname="S. N.">Balasubrahmanyam, S. N.</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Chemistry Utilisation of CO2: A Challenge for the Sustainable World</title>
+				<title>Trigonometric Characterization of Some Plane Curves</title>
 				<feature>General Article</feature>
-				<page>0165-0176</page>
+				<page>0235-0244</page>
 				<allauthors>
-					<author isfellow="0" lname="Jagadeesan" fname="Dinesh">Jagadeesan, Dinesh</author>
-					<author isfellow="0" lname="Joshi" fname="Bhaskar">Joshi, Bhaskar</author>
-					<author isfellow="0" lname="Parameswaran" fname="Prashant">Parameswaran, Prashant</author>		
+					<author isfellow="0" lname="Barua" fname="B.">Barua, B.</author>
+					<author isfellow="0" lname="Das" fname="J.">Das, J.</author>
 				</allauthors>
 			</entry>			
 			<entry>
-				<title>Rediscovering Genetics with Drosophila</title>
-				<feature>Classroom</feature>
-				<page>0177-0183</page>
+				<title>Nature Watch: Symbiosis in Coastal Marine Communities</title>
+				<feature>Feature Article</feature>
+				<page>0245-0253</page>
 				<allauthors>
-					<author isfellow="0" lname="Dhamija" fname="Neeru">Dhamija, Neeru</author>
-					<author isfellow="0" lname="Joshi" fname="Sunita">Joshi, Sunita</author>
+					<author isfellow="0" lname="Pereira" fname="Neelam">Pereira, Neelam</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Sciencce Academies' Seventieth Refresher Course in Experimental Physics</title>
-				<feature>Information and Announcements</feature>
-				<page>0184-0184</page>
-			<allauthors/>
+				<title>Discovering Facts: Finding the Longest Day with School Children</title>
+				<feature>Classroom</feature>
+				<page>0254-0259</page>
+				<allauthors>
+					<author isfellow="0" lname="Guttal" fname="Vishwesha">Guttal, Vishwesha</author>
+				</allauthors>
 			</entry>
 			<entry>
-				<title>Science Academies' Refresher Course in Experimental Physics</title>
+				<title>Predictability: Does the Flap of a Butterfly's Wings in Brazil Set off a Tornado in Texas?</title>
+				<feature>Classics</feature>
+				<page>0260-0263</page>
+				<allauthors>
+					<author isfellow="0" lname="Lorenz" fname="Edward U.">Lorenz, Edward U.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Symmetry and Mathematics:  Pioneering Insights into the Structure of Physics</title>
+				<feature>Face to Face</feature>
+				<page>0264-0276</page>
+				<allauthors>
+					<author isfellow="0" lname="Yajnik" fname="Urjit A">Yajnik, Urjit A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course on Quantum Mechanics</title>
 				<feature>Information and Announcements</feature>
-				<page>0185-0185</page>
+				<page>0277-0277</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Indian Institute of Science - Undergraduate Programme Admissions for 2015</title>
+				<title>Science Academies' Refresher Course in Mathematics</title>
 				<feature>Information and Announcements</feature>
-				<page>0186-0186</page>
+				<page>0278-0278</page>
 				<allauthors/>
-			</entry>									
+			</entry>
+				<entry>
+				<title>Guidelines for Authors</title>
+				<page>0279-0283</page>
+				<allauthors/>
+			</entry>	
 			<entry>
-				<title>Excoecaria crenulata</title>
+				<title>Statement about ownership and other particulars of Resonance - journal of science education</title>
+				<feature>Information and Announcements</feature>
+				<page>0279-0283</page>
+				<allauthors/>
+			</entry>																			
+			<entry>
+				<title>Givotia rottleriformis Griffith</title>
 				<feature>Flowering Trees</feature>
-				<page>0187-0187</page>
+				<page>0285-0285</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Richard Buckminster Fuller</title>
+				<title>Edward Norton Lorenz (1917 - 2008)</title>
 				<feature>Featured Scientist</feature>
-				<page>0188-0188</page>
+				<page>0286-0286</page>
 				<allauthors/>
 			</entry>
 		</issue>
 	</volume>
 </res>
+

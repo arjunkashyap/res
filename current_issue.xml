@@ -1,58 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="20" inum="02" month="02" year="2015">
+<current_issue vnum="20" inum="03" month="03" year="2015">
 	<feature_article>
 		<entry>
-			<title>Single Molecule Spectroscopy</title>
+			<title>Discoverer of Chaos</title>
 			<text></text>
-			<page>0151-0164</page>
+			<page>0191-0197</page>
 		</entry>
 		<entry>
-			<title>Buckminster Fuller and his Fabulous Designs</title>
+			<title>Butterfly Effect</title>
 			<text></text>
-			<page>0098-0122</page>
+			<page>0198-0205</page>
 		</entry>
 		<entry>
-			<title>Fullerenes Revisited</title>
+			<title>Multivariable CRT</title>
 			<text></text>
-			<page>0123-0135</page>
+			<page>0206-0216</page>
 		</entry>
 		<entry>
-			<title>Realm of Matrices</title>
+			<title>Stereochemistry of Abietic Acid</title>
 			<text></text>
-			<page>0136-0150</page>
+			<page>0217-0234</page>
 			</entry>
 		<entry>
-			<title>Single Molecule Spectroscopy: Every Molecule is Different!</title>
+			<title>Trigonometric Characterization of Some Plane Curves</title>
 			<text></text>
-			<page>0151-0164</page>
+			<page>0235-0244</page>
 		</entry>
 		<entry>
-			<title>Chemical Utilisation of CO2</title>
+			<title>Symbiosis in Coastal Marine Communities</title>
 			<text></text>
-			<page>0165-0176</page>
+			<page>0245-0253</page>
 		</entry>
 		<entry>
-			<title>Rediscovering Genetics with Drosophila</title>
+			<title>Discovering Facts with School Children</title>
 			<text></text>
-			<page>0177-0183</page>
+			<page>0254-0259</page>
 		</entry>
-		</feature_article>			
+	</feature_article>
+	<editorial>
 		<entry>
 			<title>Editorial</title>
 			<author>Rajaram Nityananda</author>
 			<text></text>
-			<page>0095-0095</page>
+			<page>0187-0187</page>
 		</entry>
+	</editorial>
 	<cover>
 		<entry>
-			<title>Buckminster Fuller's Designs (See article on page 98.)</title>
+			<title>Tropical Cyclone Eunice (left) and Tropical Cyclone Diamondra (right) in the Southern Indian Ocean on Jan. 28, 2015. Image Credit: NASA's Goddard MODIS Rapid Response Team. (See article on page 198.)</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Richard Buckminster Fuller(1895&#8211;1983)</title>
+			<title>Edward Norton Lorenz</title>
+			<text>1917&#8211;2008</text>
 		</entry>
 	</bcover>
 </current_issue>

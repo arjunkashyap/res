@@ -28775,5 +28775,137 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="03" month="03" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0187-0187</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0188-0189</page>
+				<allauthors/>
+			</entry>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0190-0190</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>Edwawrd Norton Lorenz: Discoverer of Chaos</title>
+				<feature>General Article</feature>
+				<page>0191-0197</page>
+				<allauthors>
+					<author isfellow="0" lname="Krishnamurthy" fname="V.">Krishnamurthy, V.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Ed Lorenz: Father of the 'Butterfly Effect'</title>
+				<feature>General Article</feature>
+				<page>0198-0205</page>
+				<allauthors>
+					<author isfellow="0" lname="Ambika" fname="G.">Ambika, G.</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Multivariable Chinese Remainder Theorem</title>
+				<feature>General Article</feature>
+				<page>0206-0216</page>
+				<allauthors>
+					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>C-II Acid and the Stereochemistry of Abietic Acid</title>
+				<feature>General Article</feature>
+				<page>0217-0234</page>
+				<allauthors>
+					<author isfellow="0" lname="Balasubrahmanyam" fname="S. N.">Balasubrahmanyam, S. N.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Trigonometric Characterization of Some Plane Curves</title>
+				<feature>General Article</feature>
+				<page>0235-0244</page>
+				<allauthors>
+					<author isfellow="0" lname="Barua" fname="B.">Barua, B.</author>
+					<author isfellow="0" lname="Das" fname="J.">Das, J.</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Nature Watch: Symbiosis in Coastal Marine Communities</title>
+				<feature>Feature Article</feature>
+				<page>0245-0253</page>
+				<allauthors>
+					<author isfellow="0" lname="Pereira" fname="Neelam">Pereira, Neelam</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Discovering Facts: Finding the Longest Day with School Children</title>
+				<feature>Classroom</feature>
+				<page>0254-0259</page>
+				<allauthors>
+					<author isfellow="0" lname="Guttal" fname="Vishwesha">Guttal, Vishwesha</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Predictability: Does the Flap of a Butterfly's Wings in Brazil Set off a Tornado in Texas?</title>
+				<feature>Classics</feature>
+				<page>0260-0263</page>
+				<allauthors>
+					<author isfellow="0" lname="Lorenz" fname="Edward U.">Lorenz, Edward U.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Symmetry and Mathematics:  Pioneering Insights into the Structure of Physics</title>
+				<feature>Face to Face</feature>
+				<page>0264-0276</page>
+				<allauthors>
+					<author isfellow="0" lname="Yajnik" fname="Urjit A">Yajnik, Urjit A.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course on Quantum Mechanics</title>
+				<feature>Information and Announcements</feature>
+				<page>0277-0277</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Mathematics</title>
+				<feature>Information and Announcements</feature>
+				<page>0278-0278</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Guidelines for Authors</title>
+				<page>0279-0283</page>
+				<allauthors/>
+			</entry>	
+			<entry>
+				<title>Statement about ownership and other particulars of Resonance - journal of science education</title>
+				<feature>Information and Announcements</feature>
+				<page>0279-0283</page>
+				<allauthors/>
+			</entry>																			
+			<entry>
+				<title>Givotia rottleriformis Griffith</title>
+				<feature>Flowering Trees</feature>
+				<page>0285-0285</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Edward Norton Lorenz (1917 - 2008)</title>
+				<feature>Featured Scientist</feature>
+				<page>0286-0286</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>
