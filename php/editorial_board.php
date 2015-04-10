@@ -91,8 +91,8 @@
 			<p class="p2"><span class="bld">Rengaswamy Ramesh, Ahmedabad</span><span class="insti"></span><br /><span class="itl"></span></p>
 			<p class="p2"><span class="bld">Amit Roy, Kolkata</span><span class="insti"></span><br /><span class="itl"></span></p>
 			<p class="p2"><span class="bld">D J Saikia, Guwahati</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">TRSeshadri, Delhi</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">RSrianand, Pune</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">T R Seshadri, Delhi</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">R Srianand, Pune</span><span class="insti"></span><br /><span class="itl"></span></p>
 			<p class="p2"><span class="bld">Y N Srikant, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
 			<p class="p2"><span class="bld">R B Sunoj, Mumbai</span><span class="insti"></span><br /><span class="itl"></span></p>
 			<p class="p2"><span class="bld">Raghunand R Tirumalai, Hyderabad</span><span class="insti"></span><br /><span class="itl"></span></p>
