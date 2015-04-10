@@ -65,49 +65,50 @@
 		<?php include("include_current_issue.php"); ?>
 		<div class="about">
 			<p class="title">Chief Editor</p>
-			<p class="p2"><span class="bld">K L Sebastian</span><span class="insti"></span><br /><span class="itl"></span></p><hr />
+			<p class="p2"><span class="bld">Rajaram Nityananda, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p><hr />
 
 			<p class="title">Associate Editors</p>
-			<p class="p2"><span class="bld">G K Ananthasuresh, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">G Nagendrappa, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Vasant Natarajan, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Biman Nath, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Shailesh A Shirali, Rishi Valley</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">S V Bhat, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Biman Nath, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Srikanth Sastry, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">B Sury, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
 
-			<p class="title">Council of Editors</p>
-			<p class="p2"><span class="bld">K B Athreya, USA</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="title">Editorial Board</p>
+			<p class="p2"><span class="bld">Mihir Arjunwadkar, Pune</span><span class="insti"></span><br /><span class="itl"></span></p>
 			<p class="p2"><span class="bld">J K Bera, Kanpur</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Tapas Chakraborty, Kolkata</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Dipshikha Chakravortty, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Shobha Madan, Kanpur</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">S Mahadevan, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">M J Mahan, Howrah</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">N Mukunda, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Sadanand Nanjundiah, USA</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">S Natarajan, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Bikram Phookun, New Delhi</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">C R Pranesachar, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">T Raghunand, Hyderabad</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">B V Rajarama Bhat, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">V Rajaraman, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Utpal Sarkar, Ahmedabad</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Siddhartha P Sarma, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Karthik Shanker, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">R Srianand, Pune</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">Y N Srikant, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Suman Beri, Chandigarh</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Dipshikha Chakravortty, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">A R Usha Devi, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Govind Krishnaswami, Chennai</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Anil Kumar, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Guruswamy Kumaraswamy, Pune</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">S Kumaresan, Hyderabad</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">C E Veni Madhavan, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Sudeshna Mazumdar-Leighton, Delhi</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Harini Nagendra, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Kapil Paranjpe, Chandigarh</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Suvendra Kumar Ray, Tezpur</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Rengaswamy Ramesh, Ahmedabad</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Amit Roy, Kolkata</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">D J Saikia, Guwahati</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">TRSeshadri, Delhi</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">RSrianand, Pune</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Y N Srikant, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
 			<p class="p2"><span class="bld">R B Sunoj, Mumbai</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">B Sury, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">G Sivakumar Swamy, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">N Srinivasan, Bangalore</span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">P N Vinayachandran, Bangalore </span><span class="insti"></span><br /><span class="itl"></span></p>
-			<p class="p2"><span class="bld">C S Yogananda, Mysore </span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Raghunand R Tirumalai, Hyderabad</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">Geetha Venkataraman, Delhi</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">P N Vinayachandran, Bengaluru</span><span class="insti"></span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">C S Yogananda, Mysore</span><span class="insti"></span><br /><span class="itl"></span></p>
 			
 			<p class="title">Editor of Publications</p>
-			<p class="p2"><span class="bld">R Ramaswamy, </span><span class="insti">University of Hyderabad, Hyderabad</span><br /><span class="itl"></span></p>
+			<p class="p2"><span class="bld">R Ramaswamy, </span><span class="insti">Jawaharlal Nehru University, New Delhi</span><br /><span class="itl"></span></p>
 
-			<p class="p2"><span class="bld">Assistant Editors</span><br />M Raj Lakshmi, Sujatha Mohankumar</p>
-			<p class="p2"><span class="bld">Editorial Staff</span><br />R Pushpavati, M Srimathi</p>
-			<p class="p2"><span class="bld">Circulation and Accounts:</span><br />Shanthi Bhasker, A Jayakumar, Peter Jayaraj, B Krishna,<br />Ranjini Mohan, A Shashidhar, T M Tejeswini, C Vedamurthy</p>
+			<p class="p2"><span class="bld">Assistant Editors</span><br />Sujatha Mohankumar, M Raj Lakshmi</p>
+			<p class="p2"><span class="bld">Editorial Staff</span><br />Kshipra Shukre, R Pushpavathi, M Srimathi</p>
+			<p class="p2">
+				<span class="bld">Circulation and Accounts:</span>
+				<br />B S Asha, A Jayakumar, Peter Jayaraj<br />B Krishna, Ranjini Mohan, A Shashidhar, T M Tejeswini, C Vedamurthy
+			</p>
 		</div>
 	</div>
 	<?php include("include_footer.php"); ?>
