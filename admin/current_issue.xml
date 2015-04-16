@@ -1,61 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="20" inum="03" month="03" year="2015">
+<current_issue vnum="20" inum="04" month="04" year="2015">
 	<feature_article>
 		<entry>
-			<title>Discoverer of Chaos</title>
+			<title>What is Probability Theory?</title>
 			<text></text>
-			<page>0191-0197</page>
+			<page>0292-0310</page>
 		</entry>
 		<entry>
-			<title>Butterfly Effect</title>
+			<title>Koinophilia</title>
 			<text></text>
-			<page>0198-0205</page>
+			<page>0311-0319</page>
 		</entry>
 		<entry>
-			<title>Multivariable CRT</title>
+			<title>Designing for Quieter Living</title>
 			<text></text>
-			<page>0206-0216</page>
+			<page>0320-0345</page>
 		</entry>
 		<entry>
-			<title>Stereochemistry of Abietic Acid</title>
+			<title>Rosetta-Philae Comet Mission</title>
 			<text></text>
-			<page>0217-0234</page>
+			<page>0346-0351</page>
 			</entry>
 		<entry>
-			<title>Trigonometric Characterization of Some Plane Curves</title>
+			<title>Forgotten Formulae</title>
 			<text></text>
-			<page>0235-0244</page>
+			<page>0352-0359</page>
 		</entry>
 		<entry>
-			<title>Symbiosis in Coastal Marine Communities</title>
+			<title>Phylogenetic Inference</title>
 			<text></text>
-			<page>0245-0253</page>
-		</entry>
-		<entry>
-			<title>Discovering Facts with School Children</title>
-			<text></text>
-			<page>0254-0259</page>
+			<page>0360-0367</page>
 		</entry>
 	</feature_article>
 	<editorial>
 		<entry>
 			<title>Editorial</title>
-			<author>Rajaram Nityananda</author>
+			<author>Biman Nath</author>
 			<text></text>
-			<page>0187-0187</page>
+			<page>0285-0285</page>
 		</entry>
 	</editorial>
 	<cover>
 		<entry>
-			<title>Tropical Cyclone Eunice (left) and Tropical Cyclone Diamondra (right) in the Southern Indian Ocean on Jan. 28, 2015. Image Credit: NASA's Goddard MODIS Rapid Response Team. (See article on page 198.)</title>
+			<title>Human facial attractiveness. (See article on page 311.)</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Edward Norton Lorenz</title>
-			<text>1917&#8211;2008</text>
+			<title>Joseph L Doob</title>
+			<text>1910&#8211;2004</text>
 		</entry>
 	</bcover>
 </current_issue>

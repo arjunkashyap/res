@@ -28907,5 +28907,107 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="04" month="04" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0285-0285</page>
+				<allauthors>
+					<author isfellow="0" lname="Nath" fname="Biman">Nath, Biman</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Joseph L Doob and Development of Probability Theory</title>
+				<feature>Article-in-a-Box</feature>
+				<page>0286-0288</page>
+				<allauthors>
+					<author isfellow="1" lname="Athreya" fname="K. B.">Athreya, K. B.</author>	
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0289-0289</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0290-0291</page>
+				<allauthors/>
+			</entry>		
+			<entry>
+				<title>What is Probability Theory?</title>
+				<feature>General Article</feature>
+				<page>0292-0310</page>
+				<allauthors>
+					<author isfellow="1" lname="Athreya" fname="K. B.">Athreya, K. B.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Koinophilia and Human Facial Attractiveness</title>
+				<feature>General Article</feature>
+				<page>0311-0319</page>
+				<allauthors>
+					<author isfellow="0" lname="Iyengar" fname="Aishwawriya">Iyengar, Aishwariya</author>
+					<author isfellow="0" lname="Kulkarni" fname="Rutvij">Kulkarni, Rutvij</author>
+					<author isfellow="0" lname="Vidya" fname="T. N. C.">Vidya, T. N. C.</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Designing for Quieter Living</title>
+				<feature>General Article</feature>
+				<page>0320-0345</page>
+				<allauthors>
+					<author isfellow="0" lname="Munjal" fname="M. L.">Munjal, M. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Rosetta-Philae Comet Mission as Physics Appreciation</title>
+				<feature>General Article</feature>
+				<page>0346-0351</page>
+				<allauthors>
+					<author isfellow="0" lname="Rau" fname="A. Ravi P.">Rau, A. Ravi P.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>From Navigation to Star Hopping: Forgotten Formulae</title>
+				<feature>General Article</feature>
+				<page>0352-0359</page>
+				<allauthors>
+					<author isfellow="0" lname="Shylaja" fname="B. S.">Shylaja, B. S.</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Tutorial on Phylogenetic Inference - I</title>
+				<feature>Classroom</feature>
+				<page>0360-0367</page>
+				<allauthors>
+					<author isfellow="0" lname="Bast" fname="Felix">Bast, Felix</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>The Road to IISc</title>
+				<feature>Personal Reflections</feature>
+				<page>0368-0372</page>
+				<allauthors>
+					<author isfellow="0" lname="Munjal" fname="M. L.">Munjal, M. L.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Gnidia glauca (Fresen.)</title>
+				<feature>Flowering Trees</feature>
+				<page>0373-0373</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Joseph L Doob (1910 - 2004)</title>
+				<feature>Featured Scientist</feature>
+				<page>0374-0374</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>
