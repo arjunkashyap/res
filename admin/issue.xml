@@ -3,107 +3,121 @@
 
 <res>
 	<volume vnum="20">
-		<issue inum="04" month="04" year="2015">
+		<issue inum="05" month="05" year="2015">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0285-0285</page>
+				<page>0373-0373</page>
 				<allauthors>
-					<author isfellow="0" lname="Nath" fname="Biman">Nath, Biman</author>	
+				<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Joseph L Doob and Development of Probability Theory</title>
+				<title>Arnold Sommerfeld: Physicist and Teacher Beyond Compare</title>
 				<feature>Article-in-a-Box</feature>
-				<page>0286-0288</page>
+				<page>0374-0379</page>
 				<allauthors>
-					<author isfellow="1" lname="Athreya" fname="K. B.">Athreya, K. B.</author>	
-				</allauthors>
-			</entry>			
-			<entry>
-				<title>Science Smiles</title>
-				<feature>Science Smiles</feature>
-				<page>0289-0289</page>
-				<allauthors>
-					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				<author isfellow="1" lname="Mukunda" fname="N.">Mukunda, N.</author>	
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>0290-0291</page>
+				<page>0380-0381</page>
 				<allauthors/>
+			</entry>	
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0382-0382</page>
+				<allauthors>
+				<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
 			</entry>		
 			<entry>
-				<title>What is Probability Theory?</title>
+				<title>The Fine Structure Constant</title>
 				<feature>General Article</feature>
-				<page>0292-0310</page>
+				<page>0383-0388</page>
 				<allauthors>
-					<author isfellow="1" lname="Athreya" fname="K. B.">Athreya, K. B.</author>
+				<author isfellow="0" lname="Nath" fname="Biman">Nath, Biman</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Koinophilia and Human Facial Attractiveness</title>
+				<title>Diffraction at a Straight Edge: A Gem from Sommerfeld's Work in Classical Physics</title>
 				<feature>General Article</feature>
-				<page>0311-0319</page>
+				<page>0389-0400</page>
 				<allauthors>
-					<author isfellow="0" lname="Iyengar" fname="Aishwawriya">Iyengar, Aishwariya</author>
-					<author isfellow="0" lname="Kulkarni" fname="Rutvij">Kulkarni, Rutvij</author>
-					<author isfellow="0" lname="Vidya" fname="T. N. C.">Vidya, T. N. C.</author>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>Designing for Quieter Living</title>
+				<title>The Navigation Sysem of the Brain: 2014 Nobel Prize in Physiology or Medicine</title>
 				<feature>General Article</feature>
-				<page>0320-0345</page>
+				<page>0401-0415</page>
 				<allauthors>
-					<author isfellow="0" lname="Munjal" fname="M. L.">Munjal, M. L.</author>
+					<author isfellow="0" lname="Venkhatesh V." fname="Prasanna">Venkhatesh V., Prasanna</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>The Rosetta-Philae Comet Mission as Physics Appreciation</title>
+				<entry>
+				<title>How to Discover the Rogers-Ramanujan Identities</title>
 				<feature>General Article</feature>
-				<page>0346-0351</page>
+				<page>0416-0430</page>
 				<allauthors>
-					<author isfellow="0" lname="Rau" fname="A. Ravi P.">Rau, A. Ravi P.</author>
+					<author isfellow="0" lname="Bhatnagar" fname="Gaurav">Bhatnagar, Gaurav</author>
 				</allauthors>
-			</entry>
-			<entry>
-				<title>From Navigation to Star Hopping: Forgotten Formulae</title>
+			</entry>	
+				<entry>
+				<title>High Energy Materials: A Brief History and Chemistry of Fireworks and Rocketry</title>
 				<feature>General Article</feature>
-				<page>0352-0359</page>
+				<page>0431-0444</page>
 				<allauthors>
-					<author isfellow="0" lname="Shylaja" fname="B. S.">Shylaja, B. S.</author>
+					<author isfellow="0" lname="Naik" fname="Vedang">Naik, Vedang</author>
+					<author isfellow="0" lname="Patil" fname="K. C.">Patil, K. C.</author>
 				</allauthors>
-			</entry>			
+			</entry>					
 			<entry>
-				<title>Tutorial on Phylogenetic Inference - I</title>
+				<title>Tutorial on Phylogenetic Inference - 2</title>
 				<feature>Classroom</feature>
-				<page>0360-0367</page>
+				<page>0445-0457</page>
 				<allauthors>
 					<author isfellow="0" lname="Bast" fname="Felix">Bast, Felix</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>The Road to IISc</title>
-				<feature>Personal Reflections</feature>
-				<page>0368-0372</page>
+				<title>An Experiment on Projectile Motion</title>
+				<feature>Classroom</feature>
+				<page>0458-0471</page>
 				<allauthors>
-					<author isfellow="0" lname="Munjal" fname="M. L.">Munjal, M. L.</author>
+					<author isfellow="0" lname="Srivastava" fname="Amitabh">Srivastava, Amitabh</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Some Reminiscences of My Teaching Career</title>
+				<feature>Classics</feature>
+				<page>0472-0475</page>
+				<allauthors>
+					<author isfellow="0" lname="Sommerfeld" fname="Arnold">Sommerfeld, Arnold</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Gnidia glauca (Fresen.)</title>
+				<title>Order Form</title>
+				<feature>Order Form</feature>
+				<page>0476-0476</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Annona cherimola</title>
 				<feature>Flowering Trees</feature>
-				<page>0373-0373</page>
+				<page>0477-0477</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Joseph L Doob (1910 - 2004)</title>
+				<title>Arnold Sommerfeld</title>
 				<feature>Featured Scientist</feature>
-				<page>0374-0374</page>
+				<page>0478-0478</page>
 				<allauthors/>
 			</entry>
 		</issue>
 	</volume>
 </res>
+

@@ -29009,5 +29009,120 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="05" month="05" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0373-0373</page>
+				<allauthors>
+				<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Arnold Sommerfeld: Physicist and Teacher Beyond Compare</title>
+				<feature>Article-in-a-Box</feature>
+				<page>0374-0379</page>
+				<allauthors>
+				<author isfellow="1" lname="Mukunda" fname="N.">Mukunda, N.</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0380-0381</page>
+				<allauthors/>
+			</entry>	
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0382-0382</page>
+				<allauthors>
+				<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>The Fine Structure Constant</title>
+				<feature>General Article</feature>
+				<page>0383-0388</page>
+				<allauthors>
+				<author isfellow="0" lname="Nath" fname="Biman">Nath, Biman</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Diffraction at a Straight Edge: A Gem from Sommerfeld's Work in Classical Physics</title>
+				<feature>General Article</feature>
+				<page>0389-0400</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>The Navigation Sysem of the Brain: 2014 Nobel Prize in Physiology or Medicine</title>
+				<feature>General Article</feature>
+				<page>0401-0415</page>
+				<allauthors>
+					<author isfellow="0" lname="Venkhatesh V." fname="Prasanna">Venkhatesh V., Prasanna</author>
+				</allauthors>
+			</entry>
+				<entry>
+				<title>How to Discover the Rogers-Ramanujan Identities</title>
+				<feature>General Article</feature>
+				<page>0416-0430</page>
+				<allauthors>
+					<author isfellow="0" lname="Bhatnagar" fname="Gaurav">Bhatnagar, Gaurav</author>
+				</allauthors>
+			</entry>	
+				<entry>
+				<title>High Energy Materials: A Brief History and Chemistry of Fireworks and Rocketry</title>
+				<feature>General Article</feature>
+				<page>0431-0444</page>
+				<allauthors>
+					<author isfellow="0" lname="Naik" fname="Vedang">Naik, Vedang</author>
+					<author isfellow="0" lname="Patil" fname="K. C.">Patil, K. C.</author>
+				</allauthors>
+			</entry>					
+			<entry>
+				<title>Tutorial on Phylogenetic Inference - 2</title>
+				<feature>Classroom</feature>
+				<page>0445-0457</page>
+				<allauthors>
+					<author isfellow="0" lname="Bast" fname="Felix">Bast, Felix</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>An Experiment on Projectile Motion</title>
+				<feature>Classroom</feature>
+				<page>0458-0471</page>
+				<allauthors>
+					<author isfellow="0" lname="Srivastava" fname="Amitabh">Srivastava, Amitabh</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Some Reminiscences of My Teaching Career</title>
+				<feature>Classics</feature>
+				<page>0472-0475</page>
+				<allauthors>
+					<author isfellow="0" lname="Sommerfeld" fname="Arnold">Sommerfeld, Arnold</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Order Form</title>
+				<feature>Order Form</feature>
+				<page>0476-0476</page>
+				<allauthors/>
+			</entry>			
+			<entry>
+				<title>Annona cherimola</title>
+				<feature>Flowering Trees</feature>
+				<page>0477-0477</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Arnold Sommerfeld</title>
+				<feature>Featured Scientist</feature>
+				<page>0478-0478</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>

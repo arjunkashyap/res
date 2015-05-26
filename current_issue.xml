@@ -1,56 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="20" inum="04" month="04" year="2015">
+<current_issue vnum="20" inum="05" month="05" year="2015">
 	<feature_article>
 		<entry>
-			<title>What is Probability Theory?</title>
+			<title>Fine Structure Constant</title>
 			<text></text>
-			<page>0292-0310</page>
+			<page>0383-0388</page>
 		</entry>
 		<entry>
-			<title>Koinophilia</title>
+			<title>Diffraction at a Straight Edge</title>
 			<text></text>
-			<page>0311-0319</page>
+			<page>0389-0400</page>
 		</entry>
 		<entry>
-			<title>Designing for Quieter Living</title>
+			<title>Navigation System of the Brain</title>
 			<text></text>
-			<page>0320-0345</page>
+			<page>0401-0415</page>
 		</entry>
 		<entry>
-			<title>Rosetta-Philae Comet Mission</title>
+			<title>Rogers-Ramanujan Identities</title>
 			<text></text>
-			<page>0346-0351</page>
-			</entry>
-		<entry>
-			<title>Forgotten Formulae</title>
-			<text></text>
-			<page>0352-0359</page>
+			<page>0416-0430</page>
 		</entry>
 		<entry>
-			<title>Phylogenetic Inference</title>
+			<title>High Energy Materials</title>
 			<text></text>
-			<page>0360-0367</page>
+			<page>0431-0444</page>
 		</entry>
-	</feature_article>
+		<entry>
+			<title>Tutorial on Phylogenetic Inference -2</title>
+			<text></text>
+			<page>0445-0457</page>
+		</entry>
+		<entry>
+			<title>An Experiment on Projectile Motion</title>
+			<text></text>
+			<page>0458-0471</page>
+		</entry>	
+	</feature_article>			
 	<editorial>
 		<entry>
 			<title>Editorial</title>
-			<author>Biman Nath</author>
+			<author>Rajaram Nityananda</author>
 			<text></text>
-			<page>0285-0285</page>
+			<page>0373-0373</page>
 		</entry>
 	</editorial>
 	<cover>
 		<entry>
-			<title>Human facial attractiveness. (See article on page 311.)</title>
+			<title>A rat with a maze as backdrop represents the navigational capabilities exhibited by rodents. (See article on page 401.)</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Joseph L Doob</title>
-			<text>1910&#8211;2004</text>
+			<title>Arnold Sommerfeld</title>
+			<text>1868&#8211;1951</text>
 		</entry>
 	</bcover>
 </current_issue>
