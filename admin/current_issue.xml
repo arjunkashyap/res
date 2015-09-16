@@ -1,56 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="20" inum="04" month="04" year="2015">
+<current_issue vnum="20" inum="09" month="09" year="2015">
 	<feature_article>
 		<entry>
-			<title>What is Probability Theory?</title>
+			<title>Shyamadas Chatterjee</title>
 			<text></text>
-			<page>0292-0310</page>
+			<page>0762-0768</page>
 		</entry>
 		<entry>
-			<title>Koinophilia</title>
+			<title>When Life Played Dice with Royal Blood</title>
 			<text></text>
-			<page>0311-0319</page>
+			<page>0769-0787</page>
 		</entry>
 		<entry>
-			<title>Designing for Quieter Living</title>
+			<title>Sudoku Squares</title>
 			<text></text>
-			<page>0320-0345</page>
+			<page>0788-0802</page>
 		</entry>
 		<entry>
-			<title>Rosetta-Philae Comet Mission</title>
+			<title>Gravitational Collapse and Structure Formation</title>
 			<text></text>
-			<page>0346-0351</page>
-			</entry>
-		<entry>
-			<title>Forgotten Formulae</title>
-			<text></text>
-			<page>0352-0359</page>
+			<page>0803-0815</page>
 		</entry>
 		<entry>
-			<title>Phylogenetic Inference</title>
+			<title>Search for the Molecular Better Half!</title>
 			<text></text>
-			<page>0360-0367</page>
+			<page>0816-0821</page>
 		</entry>
-	</feature_article>
+		<entry>
+			<title>Sums of Generalized Harmonic Series</title>
+			<text></text>
+			<page>0822-0843</page>
+		</entry>
+		<entry>
+			<title>On the Spontaneous Fission of Uranium</title>
+			<text></text>
+			<page>0856-0859</page>
+		</entry>
+	</feature_article>			
 	<editorial>
 		<entry>
 			<title>Editorial</title>
-			<author>Biman Nath</author>
+			<author>Amit Roy</author>
 			<text></text>
-			<page>0285-0285</page>
+			<page>0757-0758</page>
 		</entry>
 	</editorial>
 	<cover>
 		<entry>
-			<title>Human facial attractiveness. (See article on page 311.)</title>
+			<title>The crown on the map symbolises the royal families of Europe. The backdrop shows blood cells. The article on page 769 shows how all these themes meshed together in a crucial way in the history of the early 20th century.</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Joseph L Doob</title>
-			<text>1910&#8211;2004</text>
+			<title>Shyamadas Chatterjee</title>
+			<text>1909&#8211;1995</text>
 		</entry>
 	</bcover>
 </current_issue>

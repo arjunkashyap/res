@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE current_issue SYSTEM "current_issue.dtd">
 
-<current_issue vnum="20" inum="05" month="05" year="2015">
+<current_issue vnum="20" inum="09" month="09" year="2015">
 	<feature_article>
 		<entry>
-			<title>Fine Structure Constant</title>
+			<title>Shyamadas Chatterjee</title>
 			<text></text>
-			<page>0383-0388</page>
+			<page>0762-0768</page>
 		</entry>
 		<entry>
-			<title>Diffraction at a Straight Edge</title>
+			<title>When Life Played Dice with Royal Blood</title>
 			<text></text>
-			<page>0389-0400</page>
+			<page>0769-0787</page>
 		</entry>
 		<entry>
-			<title>Navigation System of the Brain</title>
+			<title>Sudoku Squares</title>
 			<text></text>
-			<page>0401-0415</page>
+			<page>0788-0802</page>
 		</entry>
 		<entry>
-			<title>Rogers-Ramanujan Identities</title>
+			<title>Gravitational Collapse and Structure Formation</title>
 			<text></text>
-			<page>0416-0430</page>
+			<page>0803-0815</page>
 		</entry>
 		<entry>
-			<title>High Energy Materials</title>
+			<title>Search for the Molecular Better Half!</title>
 			<text></text>
-			<page>0431-0444</page>
+			<page>0816-0821</page>
 		</entry>
 		<entry>
-			<title>Tutorial on Phylogenetic Inference -2</title>
+			<title>Sums of Generalized Harmonic Series</title>
 			<text></text>
-			<page>0445-0457</page>
+			<page>0822-0843</page>
 		</entry>
 		<entry>
-			<title>An Experiment on Projectile Motion</title>
+			<title>On the Spontaneous Fission of Uranium</title>
 			<text></text>
-			<page>0458-0471</page>
-		</entry>	
+			<page>0856-0859</page>
+		</entry>
 	</feature_article>			
 	<editorial>
 		<entry>
 			<title>Editorial</title>
-			<author>Rajaram Nityananda</author>
+			<author>Amit Roy</author>
 			<text></text>
-			<page>0373-0373</page>
+			<page>0757-0758</page>
 		</entry>
 	</editorial>
 	<cover>
 		<entry>
-			<title>A rat with a maze as backdrop represents the navigational capabilities exhibited by rodents. (See article on page 401.)</title>
+			<title>The crown on the map symbolises the royal families of Europe. The backdrop shows blood cells. The article on page 769 shows how all these themes meshed together in a crucial way in the history of the early 20th century.</title>
 		</entry>
 	</cover>
 	<bcover>
 		<entry>
-			<title>Arnold Sommerfeld</title>
-			<text>1868&#8211;1951</text>
+			<title>Shyamadas Chatterjee</title>
+			<text>1909&#8211;1995</text>
 		</entry>
 	</bcover>
 </current_issue>

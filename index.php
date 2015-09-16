@@ -104,7 +104,6 @@ $title_cv_display = preg_replace("/\<\/sub\>/", "", $title_cv_display);
 				<?php print_widget("Series Article", 1); ?>
                 <?php print_widget("Feature Article", 1); ?>
 				<?php print_widget("Personal Reflections", 1); ?>
-				<?php print_widget("Information and Announcements", 1); ?>
 			</div>
 			<div class="ci_column2">
 				<?php print_widget("General Editorial", 1); ?>
@@ -117,6 +116,7 @@ $title_cv_display = preg_replace("/\<\/sub\>/", "", $title_cv_display);
 				<?php print_widget("Think It Over", 1); ?>
 				<?php print_widget("Our Readers Write", 1); ?>
 				<?php print_widget("Reflections", 1); ?>
+				<?php print_widget("Information and Announcements", 1); ?>
 			</div>
 <?php
 echo "

@@ -3,118 +3,123 @@
 
 <res>
 	<volume vnum="20">
-		<issue inum="05" month="05" year="2015">
+		<issue inum="09" month="09" year="2015">
 			<entry>
 				<title>Editorial</title>
 				<feature>Editorial</feature>
-				<page>0373-0373</page>
+				<page>0757-0758</page>
 				<allauthors>
-				<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+					<author isfellow="0" lname="Roy" fname="Amit">Amit, Roy</author>
 				</allauthors>
 			</entry>
-			<entry>
-				<title>Arnold Sommerfeld: Physicist and Teacher Beyond Compare</title>
-				<feature>Article-in-a-Box</feature>
-				<page>0374-0379</page>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0759-0759</page>
 				<allauthors>
-				<author isfellow="1" lname="Mukunda" fname="N.">Mukunda, N.</author>	
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
 				</allauthors>
 			</entry>
 			<entry>
 				<title>Table of Contents</title>
 				<feature>Table of Contents</feature>
-				<page>0380-0381</page>
+				<page>0760-0761</page>
 				<allauthors/>
-			</entry>	
-			<entry>			
-				<title>Science Smiles</title>
-				<feature>Science Smiles</feature>
-				<page>0382-0382</page>
-				<allauthors>
-				<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
-				</allauthors>
-			</entry>		
+			</entry>
 			<entry>
-				<title>The Fine Structure Constant</title>
+				<title>Shyamadas Chatterjee: Experimental Par Excellence</title>
 				<feature>General Article</feature>
-				<page>0383-0388</page>
+				<page>0762-0768</page>
 				<allauthors>
-				<author isfellow="0" lname="Nath" fname="Biman">Nath, Biman</author>
+					<author isfellow="0" lname="Roy" fname="Amit">Roy, Amit</author>
 				</allauthors>
 			</entry>
 			<entry>
-				<title>Diffraction at a Straight Edge: A Gem from Sommerfeld's Work in Classical Physics</title>
+				<title>When Life Played Dice with Royal Blood</title>
 				<feature>General Article</feature>
-				<page>0389-0400</page>
+				<page>0769-0787</page>
 				<allauthors>
-					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>
+					<author isfellow="0" lname="Bhadra" fname="Anindita">Bhadra, Anindita</author>
 				</allauthors>
 			</entry>									
 			<entry>
-				<title>The Navigation Sysem of the Brain: 2014 Nobel Prize in Physiology or Medicine</title>
+				<title>Sudoku Squares as Experimental Designs</title>
 				<feature>General Article</feature>
-				<page>0401-0415</page>
+				<page>0788-0802</page>
 				<allauthors>
-					<author isfellow="0" lname="Venkhatesh V." fname="Prasanna">Venkhatesh V., Prasanna</author>
+					<author isfellow="0" lname="Sarkar" fname="Jyotirmoy">Sarkar, Jyotirmoy</author>
+					<author isfellow="0" lname="Sinha" fname="Bikas K.">Sinha, Bikas K.</author>
 				</allauthors>
 			</entry>
-				<entry>
-				<title>How to Discover the Rogers-Ramanujan Identities</title>
+			<entry>
+				<title>Gravitational Collapse and Structure Formation in an Expanding Universe</title>
 				<feature>General Article</feature>
-				<page>0416-0430</page>
+				<page>0803-0815</page>
 				<allauthors>
-					<author isfellow="0" lname="Bhatnagar" fname="Gaurav">Bhatnagar, Gaurav</author>
+					<author isfellow="0" lname="Bagla" fname="J. S.">Bagla, J. S.</author>
+					<author isfellow="0" lname="Sandhu" fname="Pritpal Kaur">Sandhu, Pritpal Kaur</author>
 				</allauthors>
-			</entry>	
-				<entry>
-				<title>High Energy Materials: A Brief History and Chemistry of Fireworks and Rocketry</title>
+			</entry>
+			<entry>
+				<title>Split Beta-Lactamase Complementation Assay: A Search for the Molecular Better Half!</title>
 				<feature>General Article</feature>
-				<page>0431-0444</page>
+				<page>0816-0821</page>
 				<allauthors>
-					<author isfellow="0" lname="Naik" fname="Vedang">Naik, Vedang</author>
-					<author isfellow="0" lname="Patil" fname="K. C.">Patil, K. C.</author>
+					<author isfellow="0" lname="Verma" fname="Vaishali">Verma, Vaishali</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sums of Generalized Harmonic Series: For Kids from Five to Fifteen</title>
+				<feature>General Article</feature>
+				<page>0822-0843</page>
+				<allauthors>
+					<author isfellow="0" lname="Silagadze" fname="Zurab">Silagadze, Zurab</author>
 				</allauthors>
 			</entry>					
 			<entry>
-				<title>Tutorial on Phylogenetic Inference - 2</title>
-				<feature>Classroom</feature>
-				<page>0445-0457</page>
+				<title>Multithreaded Processors</title>
+				<feature>General Article</feature>
+				<page>0844-0855</page>
 				<allauthors>
-					<author isfellow="0" lname="Bast" fname="Felix">Bast, Felix</author>
+					<author isfellow="0" lname="Arun" fname="Venkat">Arun, Venkat</author>
 				</allauthors>
-			</entry>
+			</entry>	
 			<entry>
-				<title>An Experiment on Projectile Motion</title>
-				<feature>Classroom</feature>
-				<page>0458-0471</page>
-				<allauthors>
-					<author isfellow="0" lname="Srivastava" fname="Amitabh">Srivastava, Amitabh</author>
-				</allauthors>
-			</entry>			
-			<entry>
-				<title>Some Reminiscences of My Teaching Career</title>
+				<title>On the Spontaneous Fission of Uranium</title>
 				<feature>Classics</feature>
-				<page>0472-0475</page>
+				<page>0856-0859</page>
 				<allauthors>
-					<author isfellow="0" lname="Sommerfeld" fname="Arnold">Sommerfeld, Arnold</author>
+					<author isfellow="0" lname="Chatterjee" fname="Shyamadas">Chatterjee, Shyamadas</author>
 				</allauthors>
+			</entry>	
+			<entry>
+				<title>Science Academies' Refresher Course in Recent Advances in Chemistry</title>
+				<feature>Information and Announcements</feature>
+				<page>0860-0860</page>
+				<allauthors/>
+			</entry>	
+			<entry>
+				<title>Refresher Course on Water: Its Fascinating Science and Diverse Implications in the Natural World</title>
+				<feature>Information and Announcements</feature>
+				<page>0861-0861</page>
+				<allauthors/>
+			</entry>	
+			<entry>
+				<title>Science Academies' Summer Research Fellowship Programme for Students and Teachers - 2016</title>
+				<feature>Information and Announcements</feature>
+				<page>0862-0862</page>
+				<allauthors/>
 			</entry>
 			<entry>
-				<title>Order Form</title>
-				<feature>Order Form</feature>
-				<page>0476-0476</page>
-				<allauthors/>
-			</entry>			
-			<entry>
-				<title>Annona cherimola</title>
+				<title>Ficus asperrima Roxb</title>
 				<feature>Flowering Trees</feature>
-				<page>0477-0477</page>
+				<page>0863-0863</page>
 				<allauthors/>
 			</entry>
 			<entry>
-				<title>Arnold Sommerfeld</title>
+				<title>Shyamadas Chatterjee</title>
 				<feature>Featured Scientist</feature>
-				<page>0478-0478</page>
+				<page>0864-0864</page>
 				<allauthors/>
 			</entry>
 		</issue>

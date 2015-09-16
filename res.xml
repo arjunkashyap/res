@@ -29124,5 +29124,439 @@
 				<allauthors/>
 			</entry>
 		</issue>
+		<issue inum="06" month="06" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0477-0479</page>
+				<allauthors>
+				<author isfellow="0" lname="Sury" fname="B.">Sury, B</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0480-0481</page>
+				<allauthors/>
+			</entry>	
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0482-0482</page>
+				<allauthors>
+				<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>Alexander the Great: The Mathematical Genius Grothendieck</title>
+				<feature>General Article</feature>
+				<page>0483-0490</page>
+				<allauthors>
+				<author isfellow="1" lname="Narasimhan" fname="M. S.">Narasimhan, M. S.</author>	
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>A Glossary of Some Mathematical Terms</title>
+				<feature>General Article</feature>
+				<page>0491-0499</page>
+				<allauthors>
+				<author isfellow="0" lname="Paranjape" fname="Kapil">Paranjape, Kapil</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Grothendieck and the Concept of Space</title>
+				<feature>General Article</feature>
+				<page>0500-0505</page>
+				<allauthors>
+					<author isfellow="1" lname="Paranjape" fname="Kapil">Paranjape, Kapil</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Microbes and Gut-Epithelium: More than Bickering Neighbors</title>
+				<feature>General Article</feature>
+				<page>0506-0514</page>
+				<allauthors>
+					<author isfellow="0" lname="Ahlawat" fname="Sarita">Ahlawat, Sarita</author>
+				</allauthors>
+			</entry>
+				<entry>
+				<title>The Notion of Twenty-Two Shrutis: Frequency Ratios in Hindustani Classical Music</title>
+				<feature>General Article</feature>
+				<page>0515-0531</page>
+				<allauthors>
+					<author isfellow="0" lname="Thakur" fname="Dinesh">Thakur, Dinesh</author>
+				</allauthors>
+			</entry>	
+				<entry>
+				<title>Latent Heat Storage Through Phase Change Materials</title>
+				<feature>General Article</feature>
+				<page>0532-0541</page>
+				<allauthors>
+					<author isfellow="0" lname="Mishra" fname="Akanksha">Mishra, Akanksha</author>
+					<author isfellow="0" lname="Shukla" fname="A.">Shukla, A.</author>
+					<author isfellow="0" lname="sharma" fname="Atul">Sharma, Atul</author>
+				</allauthors>
+			</entry>					
+			<entry>
+				<title>Necklaces: Generalizations</title>
+				<feature>General Article</feature>
+				<page>0542-0555</page>
+				<allauthors>
+					<author isfellow="0" lname="Venkaiah" fname="V. Ch">Venkaiah, V. Ch</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Life and Times of Bourbaki</title>
+				<feature>Book Review</feature>
+				<page>0556-0559</page>
+				<allauthors>
+					<author isfellow="0" lname="Yogananda" fname="C. S.">Yogananda, C. S.</author>
+				</allauthors>
+			</entry>			
+			<entry>
+				<title>Brownian Motion</title>
+				<feature>Classics</feature>
+				<page>0560-0570</page>
+				<allauthors>
+					<author isfellow="0" lname="Parthasarathy" fname="K. R.">Parthasarathy, K. R.</author>
+					</allauthors>
+			</entry>
+			<entry>
+				<title>Annona muricata L.</title>
+				<feature>Flowering Trees</feature>
+				<page>0571-0571</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Alexander Grothendieck</title>
+				<feature>Featured Scientist</feature>
+				<page>0572-0572</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="07" month="07" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0571-0571</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0572-0573</page>
+				<allauthors/>
+			</entry>	
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0574-0574</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>Asutosh Mukhopadhyay and his Mathematical Legacy</title>
+				<feature>General Article</feature>
+				<page>0575-0604</page>
+				<allauthors>
+					<author isfellow="0" lname="Sar" fname="Satyabachi">Sar, Satyabachi</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Gallium-Nitride-Based Light-Emitting Diodes: 2014 Nobel Prize in Physics</title>
+				<feature>General Article</feature>
+				<page>0605-0616</page>
+				<allauthors>
+					<author isfellow="0" lname="Murali" fname="Kota V. R. M.">Murali, Kota V. R. M.</author>
+					<author isfellow="0" lname="Naik" fname="Vinayak">Naik, Vinayak</author>
+					<author isfellow="0" lname="Datta" fname="Deepanjan">Datta, Deepanjan</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Why So Toxic?: Venom Evolution in Animals</title>
+				<feature>General Article</feature>
+				<page>0617-0627</page>
+				<allauthors>
+					<author isfellow="0" lname="Kundu" fname="Pritha">Kundu, Pritha</author>
+					<author isfellow="0" lname="Venkitachalam" fname="Srikant">Venkitachalam, Srikant</author>
+					<author isfellow="0" lname="Vidya" fname="T. N. C">Vidya, T. N. C.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>A Tribute to Bardhan and Sengupta: Synthesisers of Phenanthrene and its Derivatives</title>
+				<feature>General Article</feature>
+				<page>0628-0642</page>
+				<allauthors>
+					<author isfellow="0" lname="Chakraborty" fname="Suchandra">Chakraborty, Suchandra</author>
+					<author isfellow="0" lname="Saha" fname="Chandan">Saha, Chandan</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>On the General Equation of the Second Degree</title>
+				<feature>General Article</feature>
+				<page>0643-0662</page>
+				<allauthors>
+					<author isfellow="0" lname="Kesavan" fname="S.">Kesavan, S.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Bixa orellana L.</title>
+				<feature>Flowering Trees</feature>
+				<page>0663-0663</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Sir Asutosh Mukherjee</title>
+				<feature>Featured Scientist</feature>
+				<page>0664-0664</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="08" month="08" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0663-0663</page>
+				<allauthors>
+					<author isfellow="1" lname="Nityananda" fname="Rajaram">Nityananda, Rajaram</author>	
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0664-0665</page>
+				<allauthors/>
+			</entry>	
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0666-0666</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>		
+			<entry>
+				<title>Louis Leakey and Mary Leakey: The First Family of Palaeoanthropology</title>
+				<feature>General Article</feature>
+				<page>0667-0679</page>
+				<allauthors>
+					<author isfellow="0" lname="Gaur" fname="Rajan">Gaur, Rajan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Which Positive Integers are Interesting?</title>
+				<feature>General Article</feature>
+				<page>0680-0698</page>
+				<allauthors>
+					<author isfellow="0" lname="Sury" fname="B.">Sury, B.</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Helicity of the Neutrino: Determination of the Nature of Weak Interaction</title>
+				<feature>General Article</feature>
+				<page>0699-0710</page>
+				<allauthors>
+					<author isfellow="0" lname="Roy" fname="Amit">Roy, Amit</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Role of Outer Membrance Vesicles of Bacteria</title>
+				<feature>General Article</feature>
+				<page>0711-0725</page>
+				<allauthors>
+					<author isfellow="0" lname="Jagannadham" fname="M. V.">Jagannadham, M. V.</author>
+					<author isfellow="0" lname="Chattopadhyay" fname="M. K.">Chattopadhyay, M. K.</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>Polynomial Formula for Sums of Powers of Integers</title>
+				<feature>General Article</feature>
+				<page>0726-0743</page>
+				<allauthors>
+					<author isfellow="1" lname="Athreya" fname="K B">Athreya, K. B.</author>
+					<author isfellow="0" lname="Kothari" fname="S">Kothari, S.</author>
+				</allauthors>
+			</entry>					
+			<entry>
+				<title>Bridging Moments of Inertia Between Solids and Shells: Go from Known to the Unknown!</title>
+				<feature>Classroom</feature>
+				<page>0744-0747</page>
+				<allauthors>
+					<author isfellow="0" lname="Hong" fname="Seok-Cheol">Hong, Seok-Cheol</author>
+					<author isfellow="0" lname="Hong" fname="Seok-In">Hong, Seok-In</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>The Age of Extinction</title>
+				<feature>Book Review</feature>
+				<page>0748-0750</page>
+				<allauthors>
+					<author isfellow="0" lname="Venkhatesh V." fname="Prasanna">Venkhatesh V., Prasanna</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>Prevent or Perish</title>
+				<feature>Book Review</feature>
+				<page>0750-0752</page>
+				<allauthors>
+					<author isfellow="0" lname="Venkhatesh V" fname="Prasanna">Venkhatesh V, Prasanna</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>Hope for Animals</title>
+				<feature>Book Review</feature>
+				<page>0753-0754</page>
+				<allauthors>
+					<author isfellow="0" lname="Venkhatesh V" fname="Prasanna">Venkhatesh V, Prasanna</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>Science Academies' Refresher Course in Experimental Physics</title>
+				<feature>Information and Announcements</feature>
+				<page>0755-0755</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Science Academies' Refresher Course in Developmental Biology</title>
+				<feature>Information and Announcements</feature>
+				<page>0756-0756</page>
+				<allauthors/>
+			</entry>											
+			<entry>
+				<title>Bridelia montana (Roxb.)</title>
+				<feature>Flowering Trees</feature>
+				<page>0757-0757</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Louis Leakey (1903-1972) : Mary Leakey (1913-1996)</title>
+				<feature>Featured Scientist</feature>
+				<page>0758-0758</page>
+				<allauthors/>
+			</entry>
+		</issue>
+		<issue inum="09" month="09" year="2015">
+			<entry>
+				<title>Editorial</title>
+				<feature>Editorial</feature>
+				<page>0757-0758</page>
+				<allauthors>
+					<author isfellow="0" lname="Roy" fname="Amit">Amit, Roy</author>
+				</allauthors>
+			</entry>
+			<entry>			
+				<title>Science Smiles</title>
+				<feature>Science Smiles</feature>
+				<page>0759-0759</page>
+				<allauthors>
+					<author isfellow="0" lname="Guha" fname="Ayan">Guha, Ayan</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Table of Contents</title>
+				<feature>Table of Contents</feature>
+				<page>0760-0761</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Shyamadas Chatterjee: Experimental Par Excellence</title>
+				<feature>General Article</feature>
+				<page>0762-0768</page>
+				<allauthors>
+					<author isfellow="0" lname="Roy" fname="Amit">Roy, Amit</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>When Life Played Dice with Royal Blood</title>
+				<feature>General Article</feature>
+				<page>0769-0787</page>
+				<allauthors>
+					<author isfellow="0" lname="Bhadra" fname="Anindita">Bhadra, Anindita</author>
+				</allauthors>
+			</entry>									
+			<entry>
+				<title>Sudoku Squares as Experimental Designs</title>
+				<feature>General Article</feature>
+				<page>0788-0802</page>
+				<allauthors>
+					<author isfellow="0" lname="Sarkar" fname="Jyotirmoy">Sarkar, Jyotirmoy</author>
+					<author isfellow="0" lname="Sinha" fname="Bikas K.">Sinha, Bikas K.</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Gravitational Collapse and Structure Formation in an Expanding Universe</title>
+				<feature>General Article</feature>
+				<page>0803-0815</page>
+				<allauthors>
+					<author isfellow="0" lname="Bagla" fname="J. S.">Bagla, J. S.</author>
+					<author isfellow="0" lname="Sandhu" fname="Pritpal Kaur">Sandhu, Pritpal Kaur</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Split Beta-Lactamase Complementation Assay: A Search for the Molecular Better Half!</title>
+				<feature>General Article</feature>
+				<page>0816-0821</page>
+				<allauthors>
+					<author isfellow="0" lname="Verma" fname="Vaishali">Verma, Vaishali</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>Sums of Generalized Harmonic Series: For Kids from Five to Fifteen</title>
+				<feature>General Article</feature>
+				<page>0822-0843</page>
+				<allauthors>
+					<author isfellow="0" lname="Silagadze" fname="Zurab">Silagadze, Zurab</author>
+				</allauthors>
+			</entry>					
+			<entry>
+				<title>Multithreaded Processors</title>
+				<feature>General Article</feature>
+				<page>0844-0855</page>
+				<allauthors>
+					<author isfellow="0" lname="Arun" fname="Venkat">Arun, Venkat</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>On the Spontaneous Fission of Uranium</title>
+				<feature>Classics</feature>
+				<page>0856-0859</page>
+				<allauthors>
+					<author isfellow="0" lname="Chatterjee" fname="Shyamadas">Chatterjee, Shyamadas</author>
+				</allauthors>
+			</entry>	
+			<entry>
+				<title>Science Academies' Refresher Course in Recent Advances in Chemistry</title>
+				<feature>Information and Announcements</feature>
+				<page>0860-0860</page>
+				<allauthors/>
+			</entry>	
+			<entry>
+				<title>Refresher Course on Water: Its Fascinating Science and Diverse Implications in the Natural World</title>
+				<feature>Information and Announcements</feature>
+				<page>0861-0861</page>
+				<allauthors/>
+			</entry>	
+			<entry>
+				<title>Science Academies' Summer Research Fellowship Programme for Students and Teachers - 2016</title>
+				<feature>Information and Announcements</feature>
+				<page>0862-0862</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Ficus asperrima Roxb</title>
+				<feature>Flowering Trees</feature>
+				<page>0863-0863</page>
+				<allauthors/>
+			</entry>
+			<entry>
+				<title>Shyamadas Chatterjee</title>
+				<feature>Featured Scientist</feature>
+				<page>0864-0864</page>
+				<allauthors/>
+			</entry>
+		</issue>
 	</volume>
 </res>
